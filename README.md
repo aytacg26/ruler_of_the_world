@@ -463,3 +463,44 @@ This will give land force power to the player. Only 4 Land Force Card will be pu
 ---
 ### 3.3. Naval Forces Card
 This will give naval force power to the player. Only 3 Naval Force Card will be published (1 Card with 3 Copies) and it will have a multiplier of 1.8 on total power indexes of the country cards that player holds. This multiplier will be added on to the other Military Force multipliers. If a player has all three Military Force Cards (Air Forces Card, Land Forces Card and Naval Forces Card), she or he will have a total military force multiplier of 5.4 (2 from Air Force Card, 1.6 from Land Forces Card and 1.8 from Naval Forces Card). In this case, if a player has 20 countries and total power index of those countries is 15, total point from Military Force Card multipliers will be 5.4 x 15 =  81 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be 120.69
+
+
+### Detailed Point Calculation Example :
+We will assume that one player has the following country cards (Power Index Points of all countries will be given in a separate list)
+
+
+	Country		Card Point (Power Index)	
+	1- Canada		1.28
+	2- Brazil		1.59
+	3- Mexico		1.16
+	4- Libya		1.08
+	5- China		2.96
+	6- Nigeria		1.17
+	7- Germany		1.43
+	8- Japan		1.84
+	9- Vietnam		1.22
+	10-Malaysia		1.14
+
+Player has 10 countries and total power index of cards is 14.87
+
+Apart from Countries, player achieved to get 2 of the technology cards, Artificial Intelligence and Machine Learning Technology Card and 5G Data Technology Card. In this case, Technology Power Card multiplier of the player will be 2/4 that is 0.5
+
+From Energy Cards, we assume that the player achieved to get Natural Gas Card and Coal Gas Card, from EM35 List of each card, the Energy Power of the player will be calculated as follows :
+
+Natural Gas Card total 531 cubic km/year, WTNGP is 3948.24 cubic km/year and hence EM35 multiplier of the player from Natural Gas Card will be 0.1344 and hence additional point for the Energy Power of the player will be 0.1344 x 15 = 2.016 points and total point will be 0.5 x 14 + 15 + 2.016 = 24.016 points
+
+Coal Gas Card total 4410.3M tonnes per year, WTCP is 7109.7M tonnes per year and hence EM35 multiplier of the player will be 0.62 and additional point for the Energy Power of the player will be 0.62 x 6 = 3.72 points and total point will be 0.5 x 8 + 6 + 3.72 = 13.72 points
+
+In this case, total Energy Power Point of the player will be 37.736 and we know that Total Base Point of the Energy Cards is 67. At this point, Energy Power Card multiplier of the player will be 0.563
+
+Same player achieve to collect Land Forces and Naval Forces cards from Military Force Cards. At this point, we will be able to calculate total points of the player without considering points from “Major Straits Cards”, “EU Card” and “NATO Card”. These cards will add additional points to the player under some conditions which we will describe in following sections.
+
+#### Total Point Of Player Up to This Point : 
+	
+		Land Forces Multiplier = 1.6
+		Naval Forces Multiplier = 1.8
+		Total Military Force Multiplier of Player = 3.4
+		Total Energy Power Multiplier of Player = 0.563
+		Total Power Index from Country Cards = 14.87
+
+Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player does not have enough Energy Power to use in Military Forces against competitors (other main players))
