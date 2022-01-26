@@ -88,3 +88,16 @@ Only one technology card will be published from each type of technology and the 
 &nbsp;
 ----
 ## 2 Energy Cards
+
+There will be one, two or four from each energy card and each will have different points. There will be two main Energy Card Type. One will be Renewable Energy Cards and the other one will be Non-renewable Energy Cards
+
+````
+EM35 - Energy Multiplier of 35 = Total of Country Cards in 35 Capacity / WTWPC
+WTWPC - World Total Wind Power Capacity (733.2GW)
+WTSPC - World Total Solar Power Capacity (713.97GW)
+WTBPC - World Total Bio Diesel Production Capacity (433.1 Barrel per Day)
+WTPP - World Total Petroleum Production (27910.1 Million bbl/year)
+WTNGP - World Total Natural Gas Production (3948.24 cubic km/year)
+WTCP - World Total Coal Production (7109.7M tonnes per year)
+
+````
