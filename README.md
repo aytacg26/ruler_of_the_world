@@ -124,7 +124,7 @@ EM35 will be used in all Energy Cards, but for each energy card, 35 countries wi
 	b. This will have additional EM35 x 10  points, if the player has countries which has more wind energy capacity and included into EM35 List of Renewable Wind Energy Card.
 
 		
-	if a player does not have any Renewable Wind Energy Card, the point will be zero from Renewable Wind Energy, only two Renewable Wind Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Renewable Wind Energy Card.  List of 35 Countries that will be taken into account while calculating EM35 multiplier
+if a player does not have any Renewable Wind Energy Card, the point will be zero from Renewable Wind Energy, only two Renewable Wind Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Renewable Wind Energy Card.  List of 35 Countries that will be taken into account while calculating EM35 multiplier
 	
 	
 	 First 35 Countries that has more Renewable Wind Energy Capacity : EM35 List
@@ -174,7 +174,7 @@ total point will be **Technology Power Card Multiplier x 12point + 5point + 5.9p
 a. if it is collected with Technology  Power Card it will have multiplier x 12 points + 8 points
 b. This will have EM35 x 10  points, if the player has countries which has more solar energy capacity and included into the EM35 List of Renewable Solar Energy Card.
 
-	if a player does not have any Renewable Solar Energy Card, the point will be zero from Renewable Solar Energy, only one Renewable Solar Energy Card will be published (1 Card 1 Copy). That means, only one players will have points from Renewable Solar Energy Card. 
+if a player does not have any Renewable Solar Energy Card, the point will be zero from Renewable Solar Energy, only one Renewable Solar Energy Card will be published (1 Card 1 Copy). That means, only one players will have points from Renewable Solar Energy Card. 
 	
 
 		First 35 Countries that has more Renewable Solar Energy Capacity : EM35 List
@@ -225,7 +225,7 @@ a. With Technology Power Card it will have Technology Power Card multiplier x 12
 b. This will have EM35 x 15 points, if the player has countries which has more Biodiesel energy capacity and included into the EM35 List of Biodiesel Energy Card.
 
 
-	if a player does not have any Biodiesel Energy Card, the point will be zero from Biodiesel Energy, only four Biodiesel Energy Card will be published (1 Card with 4 Copies). That means, only four players will have points from Biodiesel Energy Card. 
+if a player does not have any Biodiesel Energy Card, the point will be zero from Biodiesel Energy, only four Biodiesel Energy Card will be published (1 Card with 4 Copies). That means, only four players will have points from Biodiesel Energy Card. 
 
 First 35 Countries that has more Biodiesel Energy Capacity : EM35 List
 
@@ -285,7 +285,7 @@ Non-renewable Energy Cards will contain Petroleum, Natural Gas and Coal Energy C
 a. With Technology Power Card it will have Technology Power Card multiplier x 14 Points + 18 points
 b. This will have EM35 x 18 points, if the player has countries which has more petroleum energy capacity and included into the EM35 List of Petroleum Energy Card.
 
-	if a player does not have any Petroleum Energy Card, the point will be zero from Petroleum Energy, only two Petroleum Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Petroleum Energy Card. 
+if a player does not have any Petroleum Energy Card, the point will be zero from Petroleum Energy, only two Petroleum Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Petroleum Energy Card. 
 	
 	
 ## 29 Countries that has proven Oil Energy Reserves : EM35 List
