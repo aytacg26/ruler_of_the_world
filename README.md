@@ -69,6 +69,20 @@ listed as follows :
 ##### 5 - EU Card
 ##### 6 - NATO Card
 
-![Logo](https://user-images.githubusercontent.com/51089771/151169035-55e2b820-7212-4bbe-82bf-c1eba0a3d8ba.png)
+&nbsp;
+
+---
 
 ## 1- Technology Cards
+
+Only one technology card will be published from each type of technology and the ones who holds more will be technologically powerful and will get Technology Power Card (this will be transferred to the wallet of the player), there will be 4 different technology cards and maximum 4 player will be able to get Technology Power Card. One player may hold all by collecting them immediately after publishing them or 4 will be split between 4 of 5 players. Depending on the number of technology cards, Player will get a Technology Power Card with a multiplier of  NTC/4 (NTC => Number of Technology Cards). This multiplier will effect points on cards which needs Technology Power Card.
+&nbsp;
+### Main Technology Cards
+        1- Artifical Intelligence and Machine Learning Technology Card
+        2- Quantum Computing Technology Card
+        3- 5G Data Technology Card
+        4- Cyber Security Technology Card
+
+&nbsp;
+----
+## 2 Energy Cards
