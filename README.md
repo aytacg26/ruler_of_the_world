@@ -168,4 +168,105 @@ EM35 will be used in all Energy Cards, but for each energy card, 35 countries wi
 If a player has the China, United States, India and Spain Cards, and also Renewable Wind Energy Card, total Wind Energy of the player will be  434.7 GW, on the other hand WTSPC is 733.2 GW and hence EM35 multiplier of the player will be 0.59, the additional point for the Energy Power of the player will be 0.59 x 10 = 5.9 points and 
 total point will be **Technology Power Card Multiplier x 12point + 5point + 5.9points**
 
-````
+
+#### 2.1.2 Renewable Solar Energy Card (Base Point : 8 Points)
+
+a. if it is collected with Technology  Power Card it will have multiplier x 12 points + 8 points
+b. This will have EM35 x 10  points, if the player has countries which has more solar energy capacity and included into the EM35 List of Renewable Solar Energy Card.
+
+	if a player does not have any Renewable Solar Energy Card, the point will be zero from Renewable Solar Energy, only one Renewable Solar Energy Card will be published (1 Card 1 Copy). That means, only one players will have points from Renewable Solar Energy Card. 
+	
+
+		First 35 Countries that has more Renewable Solar Energy Capacity : EM35 List
+		
+		1- China (254.3 GW)
+		2- United States (75 GW)
+		3- Japan (67 GW)
+		4- Germany (53.7 GW)
+		5- India (39.2 GW)
+		6- Italy (21.6 GW)
+		7- Australia (17.6 GW)
+		8- Vietnam (16.5 GW)
+		9- South Korea (14.5 GW)
+		10- Spain (14.08 GW)
+		11- United Kingdom (13.56 GW)
+		12- France (11.73 GW)
+		13- Netherlands (10.21 GW)
+		14- Brazil (7.88 GW)
+		15- Turkey (6.66 GW)
+		16- South Africa (5.99 GW)
+		17- Taiwan (5.81 GW)
+		18- Belgium (5.64 GW)
+		19- Mexico (5.64 GW)
+		20- Ukraine (5.36 GW)
+		21- Poland (3.93 GW)
+		22- Canada (3.32 GW)
+		23- Greece (3.24 GW)
+		24- Chile (3.20 GW)
+		25- Switzerland (3.11 GW)
+		26- Thailand (2.98 GW)
+		27- United Arab Emirates (2.53 GW)
+		28- Israel (2.24 GW)
+		29- Austria (2.22 GW)
+		30- Czech Republic (2.07 GW)
+		31- Hungary (1.95 GW)
+		32- Egypt (1.69 GW)
+		33- Malaysia (1.49 GW)
+		34- Russia (1.42 GW)
+		35- Sweden (1.417 GW)
+
+
+## Calculation Example :
+If a player has the China, United States, Japan and Germany Cards, and also Renewable Solar Energy Card, total Solar Energy of the player will be 450 GW, on the other hand WTSPC is 713.97 GW and hence EM35 multiplier of the player will be 0.63, the additional point for the Energy Power of the player will be 0.63 x 10 = 6.3 points and total point will be Technology Power Card Multiplier x 12point + 8point + 6.3points
+
+
+#### 2.1.3. Biodiesel Energy Card (Base Point : 15 Points)
+a. With Technology Power Card it will have Technology Power Card multiplier x 12 Points + 15 points
+b. This will have EM35 x 15 points, if the player has countries which has more Biodiesel energy capacity and included into the EM35 List of Biodiesel Energy Card.
+
+
+	if a player does not have any Biodiesel Energy Card, the point will be zero from Biodiesel Energy, only four Biodiesel Energy Card will be published (1 Card with 4 Copies). That means, only four players will have points from Biodiesel Energy Card. 
+
+First 35 Countries that has more Biodiesel Energy Capacity : EM35 List
+
+TBD : Thousand Barrels Per Day
+
+	1- United States (64 TBD)
+	2- Germany (55 TBD)
+	3- Argentina (48 TBD)
+	4- Brazil (47 TBD)
+	5- Indonesia (38 TBD)
+	6- France (33 TBD)
+	7- China (16 TBD)
+	8- Thailand (16 TBD)
+	9- Italy (9.80 TBD)
+	10- Poland (9.7 TBD)
+	11- Belgium (8.7 TBD)
+	12- Spain (8.7 TBD)
+	13- Colombia (8.5 TBD)
+	14- Austria (7.0 TBD)
+	15- Republic of Korea (6.4 TBD)
+	16- Netherlands (6.4 TBD)
+	17- Finland (5.2 TBD)
+	18- Portugal (5.2 TBD)
+	19- Sweden (5.2 TBD)
+	20- Canada (3.6 TBD)
+	21- Czech Republic (3.0 TBD)
+	22- Malaysia (2.9 TBD)
+	23- Hungary (2.8 TBD)
+	24- Philippines (2.5 TBD)
+	25- Greece (2.3 TBD)
+	26- India (2.0 TBD)
+	27- Denmark (1.8 TBD)
+	28- Slovakia (1.8 TBD)
+	29- Lithuania (1.7 TBD)
+	30- United Kingdom (1.5 TBD)
+	31- Romania (1.5 TBD)
+	32- Australia (1.4 TBD)
+	33- Latvia (1.2 TBD)
+	34- Croatia (1.1 TBD)
+	35- Ireland (0.9 TBD)
+
+
+## Calculation Example : 
+If a player has the United States, Germany and Argentina Cards, and also Bio Diesel Energy Card, total Bio Diesel Energy of the player will be 167, on the other hand WTBPC is 433.1 TBD and hence EM35 multiplier of the player will be 0.385, the additional point for the Energy Power of the player will be 0.385 x 15 = 5.77 points and total point will be Technology Power Card Multiplier x 12point + 15point + 5.77points
