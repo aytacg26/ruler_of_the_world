@@ -504,3 +504,9 @@ Same player achieve to collect Land Forces and Naval Forces cards from Military 
 		Total Power Index from Country Cards = 14.87
 
 Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player does not have enough Energy Power to use in Military Forces against competitors (other main players))
+
+# THE FOLLOWING WILL BE ADDED
+## 4- Major Straits Cards
+## 5- EU Card
+## 6- NATO Card
+## 7- Rules of The Game
