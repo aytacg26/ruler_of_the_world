@@ -68,3 +68,7 @@ listed as follows :
 ##### 4 - Major Straits Cards
 ##### 5 - EU Card
 ##### 6 - NATO Card
+
+![Logo](https://user-images.githubusercontent.com/51089771/151169035-55e2b820-7212-4bbe-82bf-c1eba0a3d8ba.png)
+
+## 1- Technology Cards
