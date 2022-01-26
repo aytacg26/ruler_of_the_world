@@ -87,7 +87,7 @@ Only one technology card will be published from each type of technology and the 
 
 &nbsp;
 ----
-## 2 Energy Cards
+## 2- Energy Cards
 
 There will be one, two or four from each energy card and each will have different points. There will be two main Energy Card Type. One will be Renewable Energy Cards and the other one will be Non-renewable Energy Cards
 
@@ -99,5 +99,73 @@ WTBPC - World Total Bio Diesel Production Capacity (433.1 Barrel per Day)
 WTPP - World Total Petroleum Production (27910.1 Million bbl/year)
 WTNGP - World Total Natural Gas Production (3948.24 cubic km/year)
 WTCP - World Total Coal Production (7109.7M tonnes per year)
+
+````
+
+````
+Calculation of EM35 Multiplier for Wind Power :
+EM35 = Total of Country Cards Player Holds from 35 Country List of Wind Power / WTWPC
+
+Calculation of EM35 Multiplier for Solar Power : 
+EM35 = Total of Country Cards Player Holds from 35 Country List of Solar Power / WTSPC
+
+EM35 will be used in all Energy Cards, but for each energy card, 35 countries will be different. List of first 35 countries for related energy card will be given under that energy card explanation. 
+
+
+````
+
+#### Note : The values may differ according to the latest years, but for this game, the given lists will be taken into account
+
+### 2.1. Renewable Energy Cards
+
+#### 2.1.1 Renewable Wind Energy (Base Point : 5 Points)
+
+	a. if it is collected with Technology Power Card it will have multiplier x 12 points + 5 points)
+	b. This will have additional EM35 x 10  points, if the player has countries which has more wind energy capacity and included into EM35 List of Renewable Wind Energy Card.
+
+		
+	if a player does not have any Renewable Wind Energy Card, the point will be zero from Renewable Wind Energy, only two Renewable Wind Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Renewable Wind Energy Card.  List of 35 Countries that will be taken into account while calculating EM35 multiplier
+	
+	
+	 First 35 Countries that has more Renewable Wind Energy Capacity : EM35 List
+		1- China (221 GW)
+		2- USA (96.4 GW)
+		3- Germany (59.3 GW)
+		4- India (35 GW)
+		5- Spain (23 GW)
+		6- United Kingdom (20.7 GW)
+		7- France (15.3 GW)
+		8- Brazil (14.5 GW)
+		9- Canada (12.8 GW)
+		10- Italy (10 GW)
+		11- Sweden (9.6 GW)
+		12- Australia (9.45 GW)
+		13- Turkey (8.83 GW)
+		14- Mexico (8.12 GW)
+		15- Netherlands (6.6 GW)
+		16- Poland (6.26 GW)
+		17- Denmark (6.23 GW)
+		18- Portugal (5.23 GW)
+		19- Belgium (4.69 GW)
+		20- Ireland (4.3 GW)
+		21- Japan (4.2 GW)
+		22- Greece (4.11 GW)
+		23- Norway (3.97 GW)
+		24- Austria (3.22 GW)
+		25- Romania (3.02 GW)
+		26- South Africa (2.63 GW)
+		27- Argentina (2.62 GW)
+		28- Finland (2.47 GW)
+		29- Chile (2.14 GW)
+		30- South Korea (1.63 GW)
+		31- Uruguay (1.51 GW)
+		32- Thailand (1.5 GW)
+		33- Morocco (1.4 GW)
+		34- Ukraine (1.4 GW)
+		35- Egypt (1.37 GW)
+
+## Calculation Example : 
+If a player has the China, United States, India and Spain Cards, and also Renewable Wind Energy Card, total Wind Energy of the player will be  434.7 GW, on the other hand WTSPC is 733.2 GW and hence EM35 multiplier of the player will be 0.59, the additional point for the Energy Power of the player will be 0.59 x 10 = 5.9 points and 
+total point will be **Technology Power Card Multiplier x 12point + 5point + 5.9points**
 
 ````
