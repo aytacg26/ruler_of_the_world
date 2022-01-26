@@ -270,3 +270,155 @@ TBD : Thousand Barrels Per Day
 
 ## Calculation Example : 
 If a player has the United States, Germany and Argentina Cards, and also Bio Diesel Energy Card, total Bio Diesel Energy of the player will be 167, on the other hand WTBPC is 433.1 TBD and hence EM35 multiplier of the player will be 0.385, the additional point for the Energy Power of the player will be 0.385 x 15 = 5.77 points and total point will be Technology Power Card Multiplier x 12point + 15point + 5.77points
+
+
+### 2.2. Non-renewable Energy Cards
+
+Non-renewable Energy Cards will contain Petroleum, Natural Gas and Coal Energy Cards. Most important ones will be accepted Petroleum and Natural Gas Energy Cards. For this reason these two will have the highest points.
+
+	Petroleum Energy Card		18 + EM35 x 18 points + Technology Power Card Multiplier x 14
+	Natural Gas Energy Card	    15 + EM35 x 15 points + Technology Power Card Multiplier x 14
+	Coal Energy Card		    6 + EM35 x 6 Points + Technology Power Card Multiplier x 8
+
+#### 2.2.1. Petroleum Energy Card (Base Point : 18 Points)
+
+a. With Technology Power Card it will have Technology Power Card multiplier x 14 Points + 18 points
+b. This will have EM35 x 18 points, if the player has countries which has more petroleum energy capacity and included into the EM35 List of Petroleum Energy Card.
+
+	if a player does not have any Petroleum Energy Card, the point will be zero from Petroleum Energy, only two Petroleum Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Petroleum Energy Card. 
+	
+	
+## 29 Countries that has proven Oil Energy Reserves : EM35 List
+	(According to the OPEC Statistical Bulletin, there is only 29 Countries by proven oil reserves)
+
+
+	1 – Venezuela (831.1 million bbl/year)
+	2 – Saudi Arabia (3818.1 million bbl/year)
+	3 – Iran (1452.9 million bbl/year)
+	4 – Canada (1336.8 million bbl/year)
+	5 – Iraq (1624.8 bbl/year)
+	6 – Kuwait (1067.8 bbl/year)
+	7 – United Arab Emirates (1133.7 bbl/year)
+	8 – Russia (3851.3 bbl/year)
+	9 – Libya (366.1 bbl/year)
+	10 – United States (3239.7 bbl/year)
+	11 – Nigeria (730 bbl/year)
+	12 – Kazakhstan (582.2 bbl/year)
+	13 – China (1452.9 bbl/year)
+	14 – Qatar (555.9 bbl/year)
+	15 – Brazil (918.1 bbl/year)
+	16 – Algeria (492.1 bbl/year)
+	17 – Ecuador (200.2 bbl/year)
+	18 – Norway (601.5 bbl/year)
+	19 – Angola (645.9 bbl/year)
+	20 – Azerbaijan (304.2 bbl/year)
+	21 – Mexico (798.2 bbl/year)
+	22 – Oman (367.5 bbl/year)
+	23 – Sudan (93.1 bbl/year)
+	24 – India (267 bbl/year)
+	25 – Vietnam (110.2 bbl/year)
+	26 – Malaysia (241.3 bbl/year)
+	27 – United Kingdom (343.1 bbl/year)
+	28 – Indonesia (304.2 bbl/year)
+	29 – Egypt (180.4 bbl/year)
+	
+
+## Calculation Example : 
+If a player has the Venezuela, Saudi Arabia and Iran Cards, and also Petroleum Energy Card, total Petroleum Energy of the player will be 6102.1M bbl/year, on the other hand WTPP is 27910.3M bbl/year and hence EM35 multiplier of the player will be 0.218, the additional point for the Energy Power of the player will be 0.218 x 18 = 3.92 points and total point will be Technology Power Card Multiplier x 12point + 18point + 3.92points
+
+
+#### 2.2.2. Natural Gas Energy Card
+
+a. With Technology Power Card it will have Technology Power Card multiplier x 14 Points + 15 points
+b. This will have EM35 x 15 points, if the player has countries which has more Natural Gas Energy capacity and included into the EM35 List of Natural Gas Energy Card.
+
+if a player does not have any Natural Gas Energy Card, the point will be zero from Natural Gas Energy, only two Natural Energy Card will be published (1 Card 2 Copies). That means, only two players will have points from Natural Energy Card. 
+
+
+## First 35 Countries that has more Natural Gas Energy Capacity : EM35 List
+List presents production per year in cubic km
+
+	1 – United States		(947 cubic km/year)
+	2 – Russia			(624 cubic km/year)
+	3 – Iran				(238 cubic km/year)
+	4 – China			(179 cubic km/year)
+	5 – Canada			(179 cubic km/year)
+	6 – Qatar			(167 cubic km/year)
+	7 – Australia			(146 cubic km/year)
+	8 – Saudi Arabia		(114 cubic km/year)
+	9 – Norway			(112 cubic km/year)
+	10 – Algeria			(88 cubic km/year)
+	11 – Turkmenistan		(84 cubic km/year)
+	12 – Egypt			(77 cubic km/year)
+	13 – Malaysia			(75 cubic km/year)
+	14 – United Arab Emirates 	(63 cubic km/year)
+	15 – Indonesia			(63 cubic km/year)
+	16 – Uzbekistan		(47 cubic km/year)
+	17 – Nigeria			(46 cubic km/year)
+	18 – Argentina			(41 cubic km/year)
+	19 – United Kingdom		(40 cubic km/year)
+	20 – Pakistan			(38 cubic km/year)
+	21 – Thailand			(38 cubic km/year)
+	22 – Oman			(37 cubic km/year)
+	23 – Netherlands		(33 cubic km/year)
+	24 – Trinidad and Tobago	(31 cubic km/year)
+	25 – Bangladesh		(29 cubic km/year)
+	26 – India			(28 cubic km/year)
+	27 – Mexico			(27 cubic km/year)
+	28 – Kazakhstan		(26 cubic km/year)
+	29 – Brazil			(25 cubic km/year)
+	30 – Venezuela			(23 cubic km/year)
+	31 – Azerbaijan			(23 cubic km/year)
+	32 – Kuwait			(20 cubic km/year)
+	33 – Ukraine			(20 cubic km/year)
+	34 – Myanmar			(18 cubic km/year)
+	35 – Bahrain			(18 cubic km/year)
+	
+## Calculation Example : 
+If a player has the United States, Russia, Iran and China Cards, and also Natural Gas Energy Card, total Natural Gas Energy of the player will be 1988 cubic km/year, on the other hand WTNGP is 3948.24 cubic km/year and hence EM35 multiplier of the player will be 0.5, the additional point for the Energy Power of the player will be 0.5 x 15 = 7.5 points and total point will be Technology Power Card Multiplier x 14point + 15point + 7.5points
+
+#### 2.2.3. Coal Energy Card
+
+a. With Technology Power Card it will have Technology Power Card multiplier x 8 Points + 6 points
+b. This will have EM35 x 6 points, if the player has countries which has more Coal Energy capacity and included into the EM35 List of Coal Energy Card.
+
+if a player does not have any Coal Energy Card, the point will be zero from Coal Energy, only two Coal Energy Card will be published (1 Card 2 copies). That means, only two players will have points from Coal Energy Card.
+
+## 32 Countries that has more Coal Production Capacity : EM35 List
+List presents coal production in million tonnes
+
+	1 - China			(3902M tonnes per year)
+	2 – India			(756.5M tonnes per year)
+	3 – United States		(484.7M tonnes per year)
+	4 – Australia			(476.7M tonnes per year)
+	5 – Russia			(399.8M tonnes per year)
+	6 – South Africa		(248.3M tonnes per year)
+	7 – Kazakhstan			(113.2M tonnes per year)
+	8 – Germany			(107.4M tonnes per year)
+	9 – Poland			(100.7M tonnes per year)
+	10 – Turkey			(70.8M tonnes per year)
+	11 – Colombia			(50.6M tonnes per year)
+	12 – Vietnam			(48.6M tonnes per year)
+	13 – Mongolia			(43.1M tonnes per year)
+	14 – Serbia			(39.8M tonnes per year)
+	15 – Canada			(39.6M tonnes per year)
+	16 – Czech Republic		(31.7M tonnes per year)
+	17 – Ukraine			(24.1M tonnes per year)
+	18 – Romania			(15M tonnes per year)
+	19 – Greece			(14M tonnes per year)
+	20 – Thailand			(13.3M tonnes per year)
+	21 – Bulgaria			(12.3M tonnes per year)
+	22 – Pakistan			(7.7M tonnes per year)
+	23 – Mexico			(6.5M tonnes per year)
+	24 – Brazil			(6.2M tonnes per year)
+	25 – Hungary			(6.1M tonnes per year)
+	26 – Laos			(22.5M tonnes per year)
+	27 – North Korea		(18.8M tonnes per year)
+	28 – Mozambique		(15.3M tonnes per year)
+	29 – Philippines		(12.3M tonnes per year)
+	30 – Kosovo			(8.9M tonnes per year)
+	31 – Bosnia and Herzegovina	(7.2M tonnes per year)	
+	32 – North Macedonia		(6.0M tonnes per year)	
+	
+## Calculation Example :
+If a player has the China, India, United States and Australia Cards, and also Coal Energy Card, total Coal Energy of the player will be 5619.9M tonnes per year , on the other hand WTCP is 7109.7M tonnes per year and hence EM35 multiplier of the player will be 0.5, the additional point for the Energy Power of the player will be 0.5 x 6 = 3 points and total point will be Technology Power Card Multiplier x 8point + 6point + 3points
