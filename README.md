@@ -1,9 +1,11 @@
 # The Ruler of the World
 ## A Card Collection Game
 
+[At OpenSea](https://opensea.io/collection/the-ruler-of-the-world)
+
 ### To prevent complete one time purchase of all collection, total price of collection will be kept 4000 ETH
 
-[![AG|Joe the Funny Frog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 
 ![row](https://user-images.githubusercontent.com/51089771/151168252-1ed41935-1d94-46a8-a740-027f1dd9cb63.png)
 
