@@ -422,3 +422,44 @@ List presents coal production in million tonnes
 	
 ## Calculation Example :
 If a player has the China, India, United States and Australia Cards, and also Coal Energy Card, total Coal Energy of the player will be 5619.9M tonnes per year , on the other hand WTCP is 7109.7M tonnes per year and hence EM35 multiplier of the player will be 0.5, the additional point for the Energy Power of the player will be 0.5 x 6 = 3 points and total point will be Technology Power Card Multiplier x 8point + 6point + 3points
+
+
+## 3- Military Force Cards
+
+Each country will have a point and each point also shows the power index of that country. There will be three types of Military Force Cards and each card will have a multiplier which will create the Military Force power of the player. On the other hand Energy Power Card of each player will effect the total Military Force power of the player. Each player who has energy cards, will have a Energy Power Card and this will be transferred to the wallet of the player after collection of the Energy Cards. According to the points from Energy Cards, Energy Power Card of the player will have a multiplier on it and this will add additional point to the Military Force Power Card of the player. 
+
+Maximum Total Energy Point of a Player will be calculated from EM35 lists and effect on Military Force Power Card point will be calculated from the base total points of the Energy Cards. From the energy cards, it is known that there will be 6 different energy card (3 from Renewable Energy Cards (wind, solar and biodiesel) and 3 from Non-renewable Energy Cards (Petroleum, Natural Gas, Coal)), for each energy card, base points are given below
+
+	Energy Card					        Base Point
+	Renewable Wind Energy Card		 	    5
+	Renewable Solar Energy Card			    8
+	Biodiesel Energy Card				    15
+	Petroleum Energy Card				    18
+	Natural Gas Energy Card			        15
+	Coal Energy Card				        6
+
+###	Total Base Point of Energy Cards	: 	67
+
+if a player has a total of 100 Points from his/her Energy Cards, his/her Energy Power Card multiplier will be 100/67 = 1.49
+
+A Complete Calculation example for Military Force Power Card of the player will be given after the presentation of Military Force Cards. As it is mention above, there will be three types of Military Force Cards, these are
+
+#####	1 -  Air Forces Card
+#####	2 –  Land Forces Card
+#####	3 –  Naval Forces Card
+
+---
+
+### 3.1. Air Forces Card
+
+This will give air force power to the player. Only 3 Air Force Card (1 Card with 3 copies) will be published and it will have a multiplier of 2 on total power indexes of the country cards that player holds. This multiplier will be added on to the other Military Force Card multipliers.  If a player has 20 countries and total power index of those countries is 15, total point from this card will increase to 30 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be  44.7 points.
+
+This point contains Country Points, Effect of Technology Cards, Effect of Energy Power Cards plus effect of Air Forces Card. Complete Calculation will be given at the end of all Military Force Card explanations and it will contain detailed calculations
+
+---
+### 3.2. Land Forces Card
+This will give land force power to the player. Only 4 Land Force Card will be published (1 Card with 4 copies) and it will have a multiplier of 1.6 on total power indexes of the country cards that player holds. This multiplier will be added on to the other Military Force Card multipliers. If a player has Air Force Card, total Military Force multiplier will be 3.6 (2 from Air Force Card and 1.6 from Land Forces Card). In this case, if a player has 20 countries and total power index of those countries is 15, total point from Military Force Card multipliers will be 3.6 x 15 =  54 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be 80.46.
+
+---
+### 3.3. Naval Forces Card
+This will give naval force power to the player. Only 3 Naval Force Card will be published (1 Card with 3 Copies) and it will have a multiplier of 1.8 on total power indexes of the country cards that player holds. This multiplier will be added on to the other Military Force multipliers. If a player has all three Military Force Cards (Air Forces Card, Land Forces Card and Naval Forces Card), she or he will have a total military force multiplier of 5.4 (2 from Air Force Card, 1.6 from Land Forces Card and 1.8 from Naval Forces Card). In this case, if a player has 20 countries and total power index of those countries is 15, total point from Military Force Card multipliers will be 5.4 x 15 =  81 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be 120.69
