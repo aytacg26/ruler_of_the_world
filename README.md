@@ -3,7 +3,7 @@
 
 [![AG|Joe the Funny Frog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![row](https://user-images.githubusercontent.com/51089771/151168252-1ed41935-1d94-46a8-a740-027f1dd9cb63.png)
 
 ##### The Ruler of the World is a Card Collection Game which will be played by five main players and possible number of game breakers,
 
