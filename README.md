@@ -509,7 +509,42 @@ Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player doe
 
 # THE FOLLOWING WILL BE ADDED
 ## 4- Major Straits Cards
+
 ## 5- EU Card
+
+This list shows EU Countries, point of country and additional point from EU Card. To get additional point, player should collect all EU Countries and should hold EU Card (EU Card will be transferred to the wallet of the main player whenever she/he/they collect all EU country cards and only 3 of 5 main players will be able to collect all EU Country cards.
+
+	Country			Point		Point From EU Card		Total Point
+	1 – Austria  			1.11			0.74			1.85	
+	2 – Belgium			1.09			0.74			1.83
+	3 – Bulgaria			1.09			0.74			1.83
+	4 – Croatia 			1.10			0.74			1.84		
+	5 – Cyprus			1.00			0.74			1.74
+	6 – Czech Republic		1.16			0.74			1.90
+	7 – Denmark 			1.12			0.74			1.86
+	8 – Estonia			1.04			0.74			1.78
+	9 – Finland			1.11			0.74			1.85
+	10 – France			1.78			0.74			2.52
+	11 – Germany			1.43			0.74			2.17
+	12 – Greece			1.22			0.74			1.96
+	13 – Hungary			1.12			0.74			1.86
+	14 – Ireland			1.04			0.74			1.78
+	15 – Italy			1.56			0.74			2.30
+	16 – Latvia			1.04			0.74			1.78
+	17 – Lithuania			1.06			0.74			1.80
+	18 – Luxembourg			1.01			0.74			1.75	
+	19 – Malta			1.00			0.74			1.74
+	20 – Netherlands		1.17			0.74			1.91
+	21 – Poland			1.24			0.74			1.98
+	22 – Portugal			1.14			0.74			1.88
+	23 – Romania			1.17			0.74			1.91
+	24 – Slovakia			1.10			0.74			1.84
+	25 – Slovenia			1.05			0.74			1.79
+	26 – Spain			1.34			0.74			2.08
+	27 – Sweden			1.24			0.74			1.98
+	
+Note : In the time period of the game, if any country leaves the EU or if any country joins to the EU, it will not effect the game list. The player who collects these countries and gets EU card will have the above points in his/her/their score board.	
+
 ## 6- NATO Card
 
 ## 7- Rules of The Game
