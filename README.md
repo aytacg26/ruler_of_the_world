@@ -536,3 +536,21 @@ Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player doe
     H- A pirate team or a pirate or a main player or a main player team cannot sell a card to a 
     main player or main player team below the purchase price and cannot sell a card which buyer main 
     player holds in his/her/their collection. 
+    
+    
+## 8 - Contact Details :
+
+You can reach us from ROW email address, our Facebook page, Instagram or Twitter Account
+	
+	email address 	: row@rownft.art
+	Facebook	: https://www.facebook.com/joefunnyfrog
+	twitter		: https://twitter.com/JoetheFunnyFrog
+	Instagram	: https://www.instagram.com/aytacguley80/
+	
+## 10 - OpenSea Collection
+
+The Ruler of the World is given under "The Ruler of the World" name and it is published by rownft, creator of all is Aytaç GÜLEY. The music used at all
+cards has been created by [Muza Production](https://muzaproduction.net/en/) and the name of the music is Blockbuster.
+
+[The Ruler of the World OpenSea Link](https://opensea.io/collection/the-ruler-of-the-world)
+
