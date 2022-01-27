@@ -14,25 +14,25 @@
 There are 208 + 1 countries in the world and game will have a maximum of 5 main players and a possible number of game breakers which will be named
 as pirates of the game but at the end of the game there will be only one **"Ruler of the World"**.
 
-### - Main Players
+### - Main Players (A Player or a team of maxiumum 20)
 First five player who collects at least 12 Country Cards will be main players of the game and main players will fight
-against each other and also game breakers to get the unique and rare **"Ruler of the World"** card. When a player collects
+against each other and also game breakers to get the unique and rare **"The Ruler of the World"** card. When a player collects
 at least 12 Country Cards, we will transfer a Main Player Card to his/her wallet. All players should follow the rules and
-create their strategies to be the winner of the game and to get the **"Ruler of the World"** card.
+create their strategies to be the winner of the game and to get the **"The Ruler of the World"** card.
 
 
-### - Game Breakers (Priates of the Game)
-After the announcement of 5 main players (first five player), any other player who collects the cards and breaks the possible
-strategies of the main players will be accepted as Priates and for game breakers or priates, we will transfer a Priate Card
+### - Game Breakers (Pirates of the Game)
+After the announcement of 5 main players (first five player or first five team), any other player who collects the cards and breaks the possible
+strategies of the main players will be accepted as Pirates and for game breakers or pirates, we will transfer a Pirate Card
 to their wallets. For some strategies or points, main players should collect the required country cards, for example, to
 get the **EU Card** a main player should collect from the limited number of EU Countries cards, but before collecting
-those limited number of cards, they can be hostaged by a priate or more priates and hence priate(s) will break the strategy 
+those limited number of cards, they can be hostaged by a pirate or more priates and hence pirate(s) will break the strategy 
 of the main player. These cases will create the trade or negotiation part of the game. A main player will need to negotiate
-with priates to get required cards for his/her strategy.
+with pirates to get required cards for his/her strategy.
 
 ### - About Game
 
-Game will be a fight between 5 main players and possible number of game breakers (priates). The Ruler of the World game
+Game will be a fight between 5 main players and possible number of game breakers (pirates). The Ruler of the World game
 will take 15 months starting from the date of publish of collection cards and in this time period, each month we will
 publish an amount of country cards and power cards. Each month, 5 hours before publishing the cards, we will announce
 the list of countries and changes on the cards at our [Facebook page](https://www.facebook.com/joefunnyfrog), [Twitter account](https://twitter.com/JoetheFunnyFrog) and website of [The Ruler of the World](https://www.rownft.art). 
@@ -44,7 +44,7 @@ she/he will get the unique and rare **The Ruler of the World** card. At the end 
 the following sections. Each player should follow the rules and any disobey to any rule will cost 10 points to the player and if she/he
 disobey more than 2 rules, she/he will be eliminated from the game and his/her points will be split equally between other main players.
 
-Collecting all countries will give the highest point to the player but it won't be enough to be **The Ruler of the World**. One may collect
+Collecting all countries will give the highest point to the player or player team but it won't be enough to be **The Ruler of the World**. One may collect
 less amount of country cards and power cards and hence may have the highest amount of the points. For this reason, each player should
 evaluate his/her strategy carefully.
 
@@ -516,12 +516,12 @@ Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player doe
 
     A- Main player can be a person or a group of people under a team name
     B- First five player or team who collects at least 12 Country Cards will be main players of the game,
-    others will be the priates or priate teams of the game.
-    C- Priate can be a person or a group of people under a priate team name
-    D- Each team can not be more than 20 person but a Main player & a priate team can
+    others will be the pirates or pirate teams of the game.
+    C- Pirate can be a person or a group of people under a pirate team name
+    D- Each team can not be more than 20 person but a Main player & a pirate team can
     form an allience when a priate team holds at least 5 country card.
     E- Team names and members of team should be send to ROW email address and hence
-    they will get a Main Player Card or Priate (Game-breaker) card under that name
+    they will get a Main Player Card or Pirate (Game-breaker) card under that name
     F- Each Main Player should select a Country as their Main Country of the game and
     should hold that country card. A country is not limited to one Main Player,
     a country can be selected more than one Main Player and at the end of the game
@@ -529,9 +529,9 @@ Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player doe
     name or nickname and the name & flag of the selected country
     G- A main player or main player team members cannot purchase a country card or
     power card more than one. Or a main player or main player team cannot form an allience with
-    a priate team which holds same cards in their collection. In such an allience,
+    a pirate team which holds same cards in their collection. In such an allience,
     they have to sell one of all similar cards at 10% below the purchase price to other
     main players.
-    H- A priate team or a priate or a main player or a main player team cannot sell a card to a 
+    H- A pirate team or a priate or a main player or a main player team cannot sell a card to a 
     main player or main player team below the purchase price and cannot sell a card which buyer main 
     player holds in his/her/their collection. 
