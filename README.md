@@ -355,7 +355,7 @@ List presents production per year in cubic km
 	13 – Malaysia			(75 cubic km/year)
 	14 – United Arab Emirates 	(63 cubic km/year)
 	15 – Indonesia			(63 cubic km/year)
-	16 – Uzbekistan		(47 cubic km/year)
+	16 – Uzbekistan			(47 cubic km/year)
 	17 – Nigeria			(46 cubic km/year)
 	18 – Argentina			(41 cubic km/year)
 	19 – United Kingdom		(40 cubic km/year)
@@ -364,10 +364,10 @@ List presents production per year in cubic km
 	22 – Oman			(37 cubic km/year)
 	23 – Netherlands		(33 cubic km/year)
 	24 – Trinidad and Tobago	(31 cubic km/year)
-	25 – Bangladesh		(29 cubic km/year)
+	25 – Bangladesh			(29 cubic km/year)
 	26 – India			(28 cubic km/year)
 	27 – Mexico			(27 cubic km/year)
-	28 – Kazakhstan		(26 cubic km/year)
+	28 – Kazakhstan			(26 cubic km/year)
 	29 – Brazil			(25 cubic km/year)
 	30 – Venezuela			(23 cubic km/year)
 	31 – Azerbaijan			(23 cubic km/year)
@@ -416,7 +416,7 @@ List presents coal production in million tonnes
 	25 – Hungary			(6.1M tonnes per year)
 	26 – Laos			(22.5M tonnes per year)
 	27 – North Korea		(18.8M tonnes per year)
-	28 – Mozambique		(15.3M tonnes per year)
+	28 – Mozambique			(15.3M tonnes per year)
 	29 – Philippines		(12.3M tonnes per year)
 	30 – Kosovo			(8.9M tonnes per year)
 	31 – Bosnia and Herzegovina	(7.2M tonnes per year)	
@@ -433,11 +433,11 @@ Each country will have a point and each point also shows the power index of that
 Maximum Total Energy Point of a Player will be calculated from EM35 lists and effect on Military Force Power Card point will be calculated from the base total points of the Energy Cards. From the energy cards, it is known that there will be 6 different energy card (3 from Renewable Energy Cards (wind, solar and biodiesel) and 3 from Non-renewable Energy Cards (Petroleum, Natural Gas, Coal)), for each energy card, base points are given below
 
 	Energy Card					        Base Point
-	Renewable Wind Energy Card		 	    5
-	Renewable Solar Energy Card			    8
-	Biodiesel Energy Card				    15
-	Petroleum Energy Card				    18
-	Natural Gas Energy Card			        15
+	Renewable Wind Energy Card		 	    	5
+	Renewable Solar Energy Card			    	8
+	Biodiesel Energy Card				    	15
+	Petroleum Energy Card				    	18
+	Natural Gas Energy Card			        	15
 	Coal Energy Card				        6
 
 ###	Total Base Point of Energy Cards	: 	67
@@ -606,7 +606,12 @@ Armenia, Austria, Azerbaijan, Belarus, Bosnia and Herzegovina, Finland, Ireland,
 
 ## 7 - Joker Country :
 
-As it has been mention from the beginning, there will be 208 + 1 Country Cards for the game. +1 is the Joker Country and it will be published at the end of the game, this country will have only one copy and will add additional 45 points to total point of the main player who collects it. 
+As it has been mention from the beginning, there will be 208 + 1 Country Cards for the game. +1 is the Joker Country and it will be published at the end of the game, this country will have only one copy and will add additional 45 points to total point of the main player who collects it. Joker Country Card (Vatican City), may change the fate 
+of game and the one main player who has a total point which does not lead him/her/them to the top on score board may sit to the top and be the winner with the help of Joker
+Card. For this case, he/she/they should have a total point at least 44 points less then the total points of the leader, otherwise, Joker will not effect their fate on the game
+result. Joker Country Card - Vatican City Country card will be unique - a rare card and at the end of the game, it will be sold via an auction. If there is no player who will 
+reach the total point of the leader with the help of Joker Card, there won't be an auction and Vatican City Country Card will automatically be transferred to the wallet of
+the winner that is **The Ruler of the World**
 
 
 ## 8- Rules of The Game
