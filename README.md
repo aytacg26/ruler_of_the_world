@@ -521,25 +521,25 @@ There will be 18 Major Straits Cards and each card will multiply the point of th
 Note : Multiplier of Strait will effect point of each location country
 
 #### Major Strait Cards, Location Countries and Multiplier of Card :
-Strait Card Name		Location Country or Countries		Multiplier 	
-1- Malacca Strait		Indonesia – Malaysia				2.14			
-2- Palk Strait			India – Sri Lanka				1.85
-3- Yucatan Strait		Mexico – Cuba					1.89
-4-  Oranto Strait		Italy – Albania					1.86
-5- Mozambique Strait		Mozambique – Madagascar				1.68
-6- Bosporus Strait		Turkey						2.95
-7- Bab-el-Mandeb Strait		Yemen – Djibouti				2.65
-8- Cook Strait			New Zealand					1.75
-9- Taurus Strait		Papua New Guinea – Australia			1.92
-10 – Dover Strait		England – France				1.88
-11 – Florida Strait		USA – Cuba					1.85
-12 – Hormuz Strait		Oman – Iran					2.85
-13 – Hudson Strait		Canada						1.85
-14 – Gibraltar Strait		Spain – Morocco					2.95
-15 – Tsungaru Strait		Japan						1.83
-16 – Tatar Strait		Russia						1.82
-17 – Formosa Strait		China – Taiwan					1.84
-18 – Suez Canal			Egypt						2.95
+	Strait Card Name		Location Country or Countries		    Multiplier 	
+	1- Malacca Strait		Indonesia – Malaysia				2.14			
+	2- Palk Strait			India – Sri Lanka				1.85
+	3- Yucatan Strait		Mexico – Cuba					1.89
+	4-  Oranto Strait		Italy – Albania					1.86
+	5- Mozambique Strait		Mozambique – Madagascar				1.68
+	6- Bosporus Strait		Turkey						2.95
+	7- Bab-el-Mandeb Strait		Yemen – Djibouti				2.65
+	8- Cook Strait			New Zealand					1.75
+	9- Taurus Strait		Papua New Guinea – Australia			1.92
+	10 – Dover Strait		England – France				1.88
+	11 – Florida Strait		USA – Cuba					1.85
+	12 – Hormuz Strait		Oman – Iran					2.85
+	13 – Hudson Strait		Canada						1.85
+	14 – Gibraltar Strait		Spain – Morocco					2.95
+	15 – Tsungaru Strait		Japan						1.83
+	16 – Tatar Strait		Russia						1.82
+	17 – Formosa Strait		China – Taiwan					1.84
+	18 – Suez Canal			Egypt						2.95
 
 Note : If two straits contains same country, point of that country will be multiplied by both straits. The only straits that has same location are Yucatan Strait and Florida Strait. In this case, if a player holds both Strait Cards and also Cuba Country Card, the point of Cuba will be calculated as
 
