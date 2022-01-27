@@ -547,7 +547,7 @@ You can reach us from ROW email address, our Facebook page, Instagram or Twitter
 	twitter		: https://twitter.com/JoetheFunnyFrog
 	Instagram	: https://www.instagram.com/aytacguley80/
 	
-## 10 - OpenSea Collection
+## 9 - OpenSea Collection
 
 The Ruler of the World is given under "The Ruler of the World" name and it is published by rownft, creator of all is Aytaç GÜLEY. The music used at all
 cards has been created by [Muza Production](https://muzaproduction.net/en/) and the name of the music is Blockbuster.
