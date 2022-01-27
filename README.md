@@ -656,3 +656,7 @@ cards has been created by [Muza Production](https://muzaproduction.net/en/) and 
 
 [The Ruler of the World OpenSea Link](https://opensea.io/collection/the-ruler-of-the-world)
 
+## 11 – What will winner get?
+
+At the end of the game, winner will get all the cards he/she/they collect, EU Card, NATO Card, Power Cards and The Ruler of the World Card. But those are not be the only gains of the winner. Winner will also get a very valuable thing which will be valuable than what he/she/they invested. This valuable thing is a SECRET, a HIDDEN REWARD which we will not declare till the end of the game to prevent manipulations and possible deceptions. The only hint about the HIDDEN REWARD is that, it will be a reward that is valuable than the investment amount. Apart from all cards, The Ruler of the World, will get a HIDDEN Reward from the game. 
+
