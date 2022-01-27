@@ -519,19 +519,20 @@ Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player doe
     others will be the pirates or pirate teams of the game.
     C- Pirate can be a person or a group of people under a pirate team name
     D- Each team can not be more than 20 person but a Main player & a pirate team can
-    form an allience when a priate team holds at least 5 country card.
+    form an alliance when a priate team holds at least 5 country card.
     E- Team names and members of team should be send to ROW email address and hence
     they will get a Main Player Card or Pirate (Game-breaker) card under that name
     F- Each Main Player should select a Country as their Main Country of the game and
     should hold that country card. A country is not limited to one Main Player,
     a country can be selected more than one Main Player and at the end of the game
     **The Ruler of the World** card will contain team name (if any) or main player
-    name or nickname and the name & flag of the selected country
+    name or nickname and the name & flag of the selected country or if any team has their
+    own team flag The Ruler of the World card will contain selected country and team flags.
     G- A main player or main player team members cannot purchase a country card or
     power card more than one. Or a main player or main player team cannot form an allience with
     a pirate team which holds same cards in their collection. In such an allience,
     they have to sell one of all similar cards at 10% below the purchase price to other
     main players.
-    H- A pirate team or a priate or a main player or a main player team cannot sell a card to a 
+    H- A pirate team or a pirate or a main player or a main player team cannot sell a card to a 
     main player or main player team below the purchase price and cannot sell a card which buyer main 
     player holds in his/her/their collection. 
