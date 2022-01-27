@@ -507,8 +507,46 @@ Same player achieve to collect Land Forces and Naval Forces cards from Military 
 
 Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player does not have enough Energy Power to use in Military Forces against competitors (other main players))
 
-# THE FOLLOWING WILL BE ADDED
+
 ## 4- Major Straits Cards
+
+A Strait is a narrow channel of the sea joining two larger bodies of water. It most commonly refers to a channel of water that lies between two land masses. Strait is used for international navigation through the territorial sea between one part of the high seas or an exclusive economic zone and another part of high seas or an exclusive economic zone are subject to the legal regime of transit passage. Straits are commercially and strategically important for **The Ruler of the World**. Importance of Straits came from the following 
+
+	1- Seaborne trade for commercial shipping
+	2 – Vital oil producing region
+	3 – Play vital role in geo-politics
+
+There will be 18 Major Straits Cards and each card will multiply the point of the location country points by a multiplier of that Strait. That is, if a player holds for example Bosporus Strait, it will effect the point of location country, that is point of Turkey. Base point of Turkey Card is 1.51 and multiplier of Bosporus Strait Card is 1.5, in this case, point from Turkey with Bosporus Strait Card will be 2.265. Each Major Strait and their multiplier is given in the following list
+
+Note : Multiplier of Strait will effect point of each location country
+
+#### Major Strait Cards, Location Countries and Multiplier of Card :
+Strait Card Name		Location Country or Countries		Multiplier 	
+1- Malacca Strait		Indonesia – Malaysia				2.14			
+2- Palk Strait			India – Sri Lanka				1.85
+3- Yucatan Strait		Mexico – Cuba					1.89
+4-  Oranto Strait		Italy – Albania					1.86
+5- Mozambique Strait		Mozambique – Madagascar				1.68
+6- Bosporus Strait		Turkey						2.95
+7- Bab-el-Mandeb Strait		Yemen – Djibouti				2.65
+8- Cook Strait			New Zealand					1.75
+9- Taurus Strait		Papua New Guinea – Australia			1.92
+10 – Dover Strait		England – France				1.88
+11 – Florida Strait		USA – Cuba					1.85
+12 – Hormuz Strait		Oman – Iran					2.85
+13 – Hudson Strait		Canada						1.85
+14 – Gibraltar Strait		Spain – Morocco					2.95
+15 – Tsungaru Strait		Japan						1.83
+16 – Tatar Strait		Russia						1.82
+17 – Formosa Strait		China – Taiwan					1.84
+18 – Suez Canal			Egypt						2.95
+
+Note : If two straits contains same country, point of that country will be multiplied by both straits. The only straits that has same location are Yucatan Strait and Florida Strait. In this case, if a player holds both Strait Cards and also Cuba Country Card, the point of Cuba will be calculated as
+
+	Total Point of Cuba Country Card = Base Point of Cuba x Multiplier of Yucatan Strait x Multiplier of Florida Strait 
+	
+#### With Yucatan Strait Card and Florida Strait Card, total point of Cuba Card will be 1.08 x 1.89 x 1.85 = 3.776
+
 
 ## 5- EU Card
 
