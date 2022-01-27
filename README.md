@@ -583,9 +583,33 @@ This list shows EU Countries, point of country and additional point from EU Card
 	
 Note : In the time period of the game, if any country leaves the EU or if any country joins to the EU, it will not effect the game list. The player who collects these countries and gets EU card will have the above points in his/her/their score board.	
 
+
 ## 6- NATO Card
 
-## 7- Rules of The Game
+The main players who collect all member states and at least three partner countries of the NATO will receive NATO Card in his/her/their wallet. This card will add an additional 35 points to total points of the main players. Only three of five main players will be able to get NATO card. 
+
+#### The member states of NATO are :
+	1 – Albania			11 – Greece			21 - Norway
+	2 – Belgium			12 – Hungary			22 - Poland
+	3 – Bulgaria			13 – Iceland			23 - Portugal
+	4 – Canada			14 – Italy			24 - Romania
+	5 – Croatia			15 – Latvia			25 - Slovakia
+	6 – Czech Republic		16 – Lithuania			26 - Slovenia
+	7 – Denmark			17 – Luxembourg			27 - Spain
+	8 – Estonia			18 – Montenegro			28 - Turkey
+	9 – France			19 – Netherlands		29 – United Kingdom
+	10 – Germany			20 – North Macedonia		30 – United States
+
+#### NATO Partner Countries :	
+Armenia, Austria, Azerbaijan, Belarus, Bosnia and Herzegovina, Finland, Ireland, Kazakhstan, Georgia, Macedonia, Kyrgyzstan, Malta, Moldova, Russia, Serbia, Sweden, Switzerland, Tajikistan, Turkmenistan, Ukraine, Uzbekistan
+
+
+## 7 - Joker Country :
+
+As it has been mention from the beginning, there will be 208 + 1 Country Cards for the game. +1 is the Joker Country and it will be published at the end of the game, this country will have only one copy and will add additional 45 points to total point of the main player who collects it. 
+
+
+## 8- Rules of The Game
 
     A- Main player can be a person or a group of people under a team name
     B- First five player or team who collects at least 12 Country Cards will be main players of the game,
@@ -611,7 +635,7 @@ Note : In the time period of the game, if any country leaves the EU or if any co
     player holds in his/her/their collection. 
     
     
-## 8 - Contact Details :
+## 9 - Contact Details :
 
 You can reach us from ROW email address, our Facebook page, Instagram or Twitter Account
 	
@@ -620,7 +644,7 @@ You can reach us from ROW email address, our Facebook page, Instagram or Twitter
 	twitter		: https://twitter.com/JoetheFunnyFrog
 	Instagram	: https://www.instagram.com/aytacguley80/
 	
-## 9 - OpenSea Collection
+## 10 - OpenSea Collection
 
 The Ruler of the World is given under "The Ruler of the World" name and it is published by rownft, creator of all is Aytaç GÜLEY. The music used at all
 cards has been created by [Muza Production](https://muzaproduction.net/en/) and the name of the music is Blockbuster.
