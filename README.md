@@ -22,6 +22,9 @@ create their strategies to be the winner of the game and to get the **"The Ruler
 
 
 ### - Game Breakers (Pirates of the Game)
+
+![PriatesOfGameCompressed](https://user-images.githubusercontent.com/51089771/151602335-6c201b14-52d9-4f40-838f-6a94dcea5aff.jpg)
+
 After the announcement of 5 main players (first five player or first five team), any other player who collects the cards and breaks the possible
 strategies of the main players will be accepted as Pirates and for game breakers or pirates, we will transfer a Pirate Card
 to their wallets. For some strategies or points, main players should collect the required country cards, for example, to
