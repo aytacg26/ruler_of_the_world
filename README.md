@@ -14,7 +14,7 @@
 There are 208 + 1 countries in the world and the game will have a maximum of 5 main players and a possible number of game-breakers which will be named
 as pirates of the game but at the end of the game there will be only one **"Ruler of the World"**.
 
-### - Main Players (A Player or a team of maxiumum 20)
+### - Main Players (A Player or a team of a maximum of 20)
 The first five-player who collects at least 12 Country Cards will be the main players of the game and the main players will fight
 against each other and also game breakers to get the unique and rare **"The Ruler of the World"** card. When a player collects
 at least 12 Country Cards, we will transfer the Main Player Card to his/her wallet. All players should follow the rules and
