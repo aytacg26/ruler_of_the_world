@@ -11,13 +11,13 @@
 
 ##### The Ruler of the World is a Card Collection Game which will be played by five main players and possible number of game breakers,
 
-There are 208 + 1 countries in the world and game will have a maximum of 5 main players and a possible number of game breakers which will be named
+There are 208 + 1 countries in the world and the game will have a maximum of 5 main players and a possible number of game-breakers which will be named
 as pirates of the game but at the end of the game there will be only one **"Ruler of the World"**.
 
 ### - Main Players (A Player or a team of maxiumum 20)
-First five player who collects at least 12 Country Cards will be main players of the game and main players will fight
+The first five-player who collects at least 12 Country Cards will be the main players of the game and the main players will fight
 against each other and also game breakers to get the unique and rare **"The Ruler of the World"** card. When a player collects
-at least 12 Country Cards, we will transfer a Main Player Card to his/her wallet. All players should follow the rules and
+at least 12 Country Cards, we will transfer the Main Player Card to his/her wallet. All players should follow the rules and
 create their strategies to be the winner of the game and to get the **"The Ruler of the World"** card.
 
 
@@ -25,48 +25,27 @@ create their strategies to be the winner of the game and to get the **"The Ruler
 
 ![PriatesOfGameCompressed](https://user-images.githubusercontent.com/51089771/151602335-6c201b14-52d9-4f40-838f-6a94dcea5aff.jpg)
 
-After the announcement of 5 main players (first five player or first five team), any other player who collects the cards and breaks the possible
-strategies of the main players will be accepted as Pirates and for game breakers or pirates, we will transfer a Pirate Card
+After the announcement of 5 main players (first five-player or first five teams), any other player who collects the cards and breaks the possible
+strategies of the main players will be accepted as Pirates and for game-breakers or pirates, we will transfer a Pirate Card
 to their wallets. For some strategies or points, main players should collect the required country cards, for example, to
-get the **EU Card** a main player should collect from the limited number of EU Countries cards, but before collecting
-those limited number of cards, they can be hostaged by a pirate or more priates and hence pirate(s) will break the strategy 
-of the main player. These cases will create the trade or negotiation part of the game. A main player will need to negotiate
-with pirates to get required cards for his/her strategy.
+get the **EU Card** the main player should collect from the limited number of EU Countries cards, but before collecting
+those limited number of cards, they can be hostage by a pirate or more pirates and hence pirate(s) will break the strategy 
+of the main player. These cases will create the trade or negotiation part of the game. The main player will need to negotiate
+with pirates to get the required cards for his/her strategy.
 
 ### - About Game
 
-Game will be a fight between 5 main players and possible number of game breakers (pirates). The Ruler of the World game
-will take 15 months starting from the date of publish of collection cards and in this time period, each month we will
-publish an amount of country cards and power cards. Each month, 5 hours before publishing the cards, we will announce
-the list of countries and changes on the cards at our [Facebook page](https://www.facebook.com/joefunnyfrog), [Twitter account](https://twitter.com/JoetheFunnyFrog) and website of [The Ruler of the World](https://www.rownft.art). 
-The website of **The Ruler of the World** will be published in February 2022. At the end of the period of the game, the one main
-player who collects the most amount of country cards and the highest point will be the winner or **The Ruler of the World** and
-she/he will get the unique and rare **The Ruler of the World** card. At the end of the game, only one player will be able to collect
-208 + 1 country cards, another one player will be able to collect 200 of the cards and remaining three players will be able to collect
-195 of the cards. Apart from country cards, each player will have power cards and some other multiplier cards which we will explain in 
-the following sections. Each player should follow the rules and any disobey to any rule will cost 10 points to the player and if she/he
-disobey more than 2 rules, she/he will be eliminated from the game and his/her points will be split equally between other main players.
+The game will be a fight between 5 main players and a possible number of game-breakers (pirates). The Ruler of the World game will take 15 months starting from the date of publishing of collection cards and in this time period, each month we will publish a number of country cards and power cards. Each month, 5 hours before publishing the cards, we will announce the list of countries and changes on the cards on our Facebook page, Twitter account, and website of The Ruler of the World. The website of The Ruler of the World will be published in February 2022. At the end of the period of the game, the one main player who collects the most amount of country cards and the highest point will be the winner or The Ruler of the World and she/he will get the unique and rare The Ruler of the World card. At the end of the game, only one player will be able to collect 208 + 1 country card, another one player will be able to collect 200 of the cards, and the remaining three players will be able to collect 195 of the cards. Apart from country cards, each player will have power cards and some other multiplier cards which we will explain in the following sections. Each player should follow the rules and any disobey to any rule will cost 10 points to the player and if she/he disobey more than 2 rules, she/he will be eliminated from the game and his/her points will be split equally between other main players.
 
-Collecting all countries will give the highest point to the player or player team but it won't be enough to be **The Ruler of the World**. One may collect
-less amount of country cards and power cards and hence may have the highest amount of the points. For this reason, each player should
-evaluate his/her strategy carefully.
+Collecting all countries will give the highest point to the player or player team but it won't be enough to be The Ruler of the World. One may collect less amount of country cards and power cards and hence may have the highest amount of points. For this reason, each player should evaluate his/her strategy carefully.
 
-Each country will have points according to their global power index (this will be given in the Countries List) and main determination will
-depend on the economic power. The ones who has more economic power will be able to collect more powerful countries and hence they will receive
-a Economic Power Card to their wallets. Apart from Economic Power Card, which will add 10 points to the total points of the players, there will
-be other 6 type of Power cards and under each type of Power Card, there will be additional cards which will have different points and which
-will effect the multiplier on the main Power Card (Main Power Cards will be trasferred to the wallet of the main players and according to
-the collected sub-types, each main player will have different multiplier number on their main Power Cards and this multiplier will effect
-the total points of the main player.)
+Each country will have points according to their global power index (this will be given in the Countries List) and the main determination will depend on the economic power. The ones who have more economic power will be able to collect more powerful countries and hence they will receive an Economic Power Card to their wallets. Apart from the Economic Power Card, which will add 10 points to the total points of the players, there will be other 6 types of Power cards and under each type of Power Card, there will be additional cards that will have different points and which will effect the multiplier on the main Power Card (Main Power Cards will be transferred to the wallet of the main players and according to the collected sub-types, each main player will have different multiplier number on their main Power Cards and this multiplier will affect the total points of the main player.)
 
-To increase the points, main players will need to have as much country as possible and also as much power cards as possible according to
-their point strategy. With a good strategy, one may get the **The Ruler of the World** card and be the winner of the game without holding
-all country cards but in any case, some of the country cards will be unique and rare, some of them will be less than five. The maximum
-number of country cards will be five and maximum number of Power Cards will be less than five. At the end of each month, points of main
-players will be published at the website of **The Ruler of the World** and also the list of priates will be given on the same site.
+To increase the points, the main players will need to have as many countries as possible and also as many power cards as possible according to their point strategy. With a good strategy, one may get The Ruler of the World card and be the winner of the game without holding all country cards but in any case, some of the country cards will be unique and rare, some of them will be less than five. The maximum number of country cards will be five and the maximum number of Power Cards will be less than five. At the end of each month, points of main players will be published on the website of The Ruler of the World and also the list of pirates will be given on the same site.
+
 
 ### - Power Cards
-There will be six different type of power cards and these cards will effect the points of the main players. The main Power Cards can be
+There will be six different types of power cards and these cards will affect the points of the main players. The main Power Cards can be
 listed as follows :
 
 ##### 1 - Technology Cards
@@ -82,7 +61,7 @@ listed as follows :
 
 ## 1- Technology Cards
 
-Only one technology card will be published from each type of technology and the ones who holds more will be technologically powerful and will get Technology Power Card (this will be transferred to the wallet of the player), there will be 4 different technology cards and maximum 4 player will be able to get Technology Power Card. One player may hold all by collecting them immediately after publishing them or 4 will be split between 4 of 5 players. Depending on the number of technology cards, Player will get a Technology Power Card with a multiplier of  NTC/4 (NTC => Number of Technology Cards). This multiplier will effect points on cards which needs Technology Power Card.
+Only one technology card will be published from each type of technology and the ones who hold more will be technologically powerful and will get a Technology Power Card (this will be transferred to the wallet of the player), there will be 4 different technology cards and maximum 4 players will be able to get Technology Power Card. One player may hold all by collecting them immediately after publishing them or 4 will be split between 4 of 5 players. Depending on the number of technology cards, the Player will get a Technology Power Card with a multiplier of  NTC/4 (NTC => Number of Technology Cards). This multiplier will affect points on cards that need Technology Power Card.
 &nbsp;
 ### Main Technology Cards
         1- Artificial Intelligence and Machine Learning Technology Card
@@ -94,7 +73,7 @@ Only one technology card will be published from each type of technology and the 
 ----
 ## 2- Energy Cards
 
-There will be one, two or four from each energy card and each will have different points. There will be two main Energy Card Type. One will be Renewable Energy Cards and the other one will be Non-renewable Energy Cards
+There will be one, two, or four from each energy card and each will have different points. There will be two main Energy Card Types. One will be Renewable Energy Cards and the other one will be Non-renewable Energy Cards
 
 ````
 EM35 - Energy Multiplier of 35 = Total of Country Cards in 35 Capacity / WTWPC
@@ -125,14 +104,14 @@ EM35 will be used in all Energy Cards, but for each energy card, 35 countries wi
 
 #### 2.1.1 Renewable Wind Energy (Base Point : 5 Points)
 
-	a. if it is collected with Technology Power Card it will have multiplier x 12 points + 5 points)
-	b. This will have additional EM35 x 10  points, if the player has countries which has more wind energy capacity and included into EM35 List of Renewable Wind Energy Card.
+	a. if it is collected with Technology Power Card it will have a multiplier x 12 points + 5 points)
+	b. This will have additional EM35 x 10  points if the player has countries that have more wind energy capacity and are included in the EM35 List of Renewable Wind Energy Card.
 
 		
 if a player does not have any Renewable Wind Energy Card, the point will be zero from Renewable Wind Energy, only two Renewable Wind Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Renewable Wind Energy Card.  List of 35 Countries that will be taken into account while calculating EM35 multiplier
 	
 	
-	 First 35 Countries that has more Renewable Wind Energy Capacity : EM35 List
+	 First 35 Countries that have more Renewable Wind Energy Capacity : EM35 List
 		1- China (221 GW)
 		2- USA (96.4 GW)
 		3- Germany (59.3 GW)
@@ -170,19 +149,19 @@ if a player does not have any Renewable Wind Energy Card, the point will be zero
 		35- Egypt (1.37 GW)
 
 ## Calculation Example : 
-If a player has the China, United States, India and Spain Cards, and also Renewable Wind Energy Card, total Wind Energy of the player will be  434.7 GW, on the other hand WTSPC is 733.2 GW and hence EM35 multiplier of the player will be 0.59, the additional point for the Energy Power of the player will be 0.59 x 10 = 5.9 points and 
+If a player has the China, United States, India, and Spain Cards, and also Renewable Wind Energy Card, the total Wind Energy of the player will be  434.7 GW, on the other hand, WTSPC is 733.2 GW and hence EM35 multiplier of the player will be 0.59, the additional point for the Energy Power of the player will be 0.59 x 10 = 5.9 points and 
 total point will be **Technology Power Card Multiplier x 12point + 5point + 5.9points**
 
 
 #### 2.1.2 Renewable Solar Energy Card (Base Point : 8 Points)
 
-a. if it is collected with Technology  Power Card it will have multiplier x 12 points + 8 points
-b. This will have EM35 x 10  points, if the player has countries which has more solar energy capacity and included into the EM35 List of Renewable Solar Energy Card.
+a. if it is collected with Technology  Power Card it will have a multiplier x 12 points + 8 points
+b. This will have EM35 x 10  points if the player has countries that have more solar energy capacity and are included in the EM35 List of Renewable Solar Energy Card.
 
-if a player does not have any Renewable Solar Energy Card, the point will be zero from Renewable Solar Energy, only one Renewable Solar Energy Card will be published (1 Card 1 Copy). That means, only one players will have points from Renewable Solar Energy Card. 
+if a player does not have any Renewable Solar Energy Card, the point will be zero from Renewable Solar Energy, only one Renewable Solar Energy Card will be published (1 Card 1 Copy). That means, only one player will have points from Renewable Solar Energy Card.
 	
 
-		First 35 Countries that has more Renewable Solar Energy Capacity : EM35 List
+		First 35 Countries that have more Renewable Solar Energy Capacity : EM35 List
 		
 		1- China (254.3 GW)
 		2- United States (75 GW)
@@ -222,17 +201,17 @@ if a player does not have any Renewable Solar Energy Card, the point will be zer
 
 
 ## Calculation Example :
-If a player has the China, United States, Japan and Germany Cards, and also Renewable Solar Energy Card, total Solar Energy of the player will be 450 GW, on the other hand WTSPC is 713.97 GW and hence EM35 multiplier of the player will be 0.63, the additional point for the Energy Power of the player will be 0.63 x 10 = 6.3 points and total point will be Technology Power Card Multiplier x 12point + 8point + 6.3points
+If a player has the China, United States, Japan, and Germany Cards, and also Renewable Solar Energy Card, the total Solar Energy of the player will be 450 GW, on the other hand, WTSPC is 713.97 GW and hence EM35 multiplier of the player will be 0.63, the additional point for the Energy Power of the player will be 0.63 x 10 = 6.3 points and the total point will be Technology Power Card Multiplier x 12point + 8point + 6.3points
 
 
 #### 2.1.3. Biodiesel Energy Card (Base Point : 15 Points)
 a. With Technology Power Card it will have Technology Power Card multiplier x 12 Points + 15 points
-b. This will have EM35 x 15 points, if the player has countries which has more Biodiesel energy capacity and included into the EM35 List of Biodiesel Energy Card.
+b. This will have EM35 x 15 points if the player has countries that have more Biodiesel energy capacity and are included in the EM35 List of Biodiesel Energy Card.
 
 
 if a player does not have any Biodiesel Energy Card, the point will be zero from Biodiesel Energy, only four Biodiesel Energy Card will be published (1 Card with 4 Copies). That means, only four players will have points from Biodiesel Energy Card. 
 
-First 35 Countries that has more Biodiesel Energy Capacity : EM35 List
+First 35 Countries that have more Biodiesel Energy Capacity : EM35 List
 
 TBD : Thousand Barrels Per Day
 
@@ -274,21 +253,21 @@ TBD : Thousand Barrels Per Day
 
 
 ## Calculation Example : 
-If a player has the United States, Germany and Argentina Cards, and also Bio Diesel Energy Card, total Bio Diesel Energy of the player will be 167, on the other hand WTBPC is 433.1 TBD and hence EM35 multiplier of the player will be 0.385, the additional point for the Energy Power of the player will be 0.385 x 15 = 5.77 points and total point will be Technology Power Card Multiplier x 12point + 15point + 5.77points
+If a player has the United States, Germany, and Argentina Cards, and also Bio Diesel Energy Card, the total Bio Diesel Energy of the player will be 167, on the other hand, WTBPC is 433.1 TBD and hence EM35 multiplier of the player will be 0.385, the additional point for the Energy Power of the player will be 0.385 x 15 = 5.77 points and the total point will be Technology Power Card Multiplier x 12point + 15point + 5.77points
 
 
 ### 2.2. Non-renewable Energy Cards
 
-Non-renewable Energy Cards will contain Petroleum, Natural Gas and Coal Energy Cards. Most important ones will be accepted Petroleum and Natural Gas Energy Cards. For this reason these two will have the highest points.
+Non-renewable Energy Cards will contain Petroleum, Natural Gas, and Coal Energy Cards. The most important ones will be accepted Petroleum and Natural Gas Energy Cards. For this reason, these two will have the highest points.
 
 	Petroleum Energy Card		18 + EM35 x 18 points + Technology Power Card Multiplier x 14
-	Natural Gas Energy Card	    15 + EM35 x 15 points + Technology Power Card Multiplier x 14
-	Coal Energy Card		    6 + EM35 x 6 Points + Technology Power Card Multiplier x 8
+	Natural Gas Energy Card	    	15 + EM35 x 15 points + Technology Power Card Multiplier x 14
+	Coal Energy Card		   6 + EM35 x 6 Points + Technology Power Card Multiplier x 8
 
 #### 2.2.1. Petroleum Energy Card (Base Point : 18 Points)
 
 a. With Technology Power Card it will have Technology Power Card multiplier x 14 Points + 18 points
-b. This will have EM35 x 18 points, if the player has countries which has more petroleum energy capacity and included into the EM35 List of Petroleum Energy Card.
+b. This will have EM35 x 18 points if the player has countries that have more petroleum energy capacity and are included in the EM35 List of Petroleum Energy Card.
 
 if a player does not have any Petroleum Energy Card, the point will be zero from Petroleum Energy, only two Petroleum Energy Card will be published (1 Card with 2 Copies). That means, only two players will have points from Petroleum Energy Card. 
 	
@@ -329,13 +308,13 @@ if a player does not have any Petroleum Energy Card, the point will be zero from
 	
 
 ## Calculation Example : 
-If a player has the Venezuela, Saudi Arabia and Iran Cards, and also Petroleum Energy Card, total Petroleum Energy of the player will be 6102.1M bbl/year, on the other hand WTPP is 27910.3M bbl/year and hence EM35 multiplier of the player will be 0.218, the additional point for the Energy Power of the player will be 0.218 x 18 = 3.92 points and total point will be Technology Power Card Multiplier x 12point + 18point + 3.92points
+If a player has Venezuela, Saudi Arabia, and Iran Cards, and also Petroleum Energy Card, the total Petroleum Energy of the player will be 6102.1M bbl/year, on the other hand, WTPP is 27910.3M bbl/year and hence EM35 multiplier of the player will be 0.218, the additional point for the Energy Power of the player will be 0.218 x 18 = 3.92 points and the total point will be Technology Power Card Multiplier x 12point + 18point + 3.92points
 
 
 #### 2.2.2. Natural Gas Energy Card
 
 a. With Technology Power Card it will have Technology Power Card multiplier x 14 Points + 15 points
-b. This will have EM35 x 15 points, if the player has countries which has more Natural Gas Energy capacity and included into the EM35 List of Natural Gas Energy Card.
+b. This will have EM35 x 15 points if the player has countries that have more Natural Gas Energy capacity and are included in the EM35 List of Natural Gas Energy Card.
 
 if a player does not have any Natural Gas Energy Card, the point will be zero from Natural Gas Energy, only two Natural Energy Card will be published (1 Card 2 Copies). That means, only two players will have points from Natural Energy Card. 
 
@@ -380,12 +359,12 @@ List presents production per year in cubic km
 	35 – Bahrain			(18 cubic km/year)
 	
 ## Calculation Example : 
-If a player has the United States, Russia, Iran and China Cards, and also Natural Gas Energy Card, total Natural Gas Energy of the player will be 1988 cubic km/year, on the other hand WTNGP is 3948.24 cubic km/year and hence EM35 multiplier of the player will be 0.5, the additional point for the Energy Power of the player will be 0.5 x 15 = 7.5 points and total point will be Technology Power Card Multiplier x 14point + 15point + 7.5points
+If a player has the United States, Russia, Iran, and China Cards, and also Natural Gas Energy Card, the total Natural Gas Energy of the player will be 1988 cubic km/year, on the other hand, WTNGP is 3948.24 cubic km/year and hence EM35 multiplier of the player will be 0.5, the additional point for the Energy Power of the player will be 0.5 x 15 = 7.5 points and the total point will be Technology Power Card Multiplier x 14point + 15point + 7.5points
 
 #### 2.2.3. Coal Energy Card
 
 a. With Technology Power Card it will have Technology Power Card multiplier x 8 Points + 6 points
-b. This will have EM35 x 6 points, if the player has countries which has more Coal Energy capacity and included into the EM35 List of Coal Energy Card.
+b. This will have EM35 x 6 points if the player has countries that have more Coal Energy capacity and are included in the EM35 List of Coal Energy Card.
 
 if a player does not have any Coal Energy Card, the point will be zero from Coal Energy, only two Coal Energy Card will be published (1 Card 2 copies). That means, only two players will have points from Coal Energy Card.
 
@@ -426,14 +405,14 @@ List presents coal production in million tonnes
 	32 – North Macedonia		(6.0M tonnes per year)	
 	
 ## Calculation Example :
-If a player has the China, India, United States and Australia Cards, and also Coal Energy Card, total Coal Energy of the player will be 5619.9M tonnes per year , on the other hand WTCP is 7109.7M tonnes per year and hence EM35 multiplier of the player will be 0.5, the additional point for the Energy Power of the player will be 0.5 x 6 = 3 points and total point will be Technology Power Card Multiplier x 8point + 6point + 3points
+If a player has the China, India, the United States, and Australia Cards, and also Coal Energy Card, the total Coal Energy of the player will be 5619.9M tonnes per year, on the other hand, WTCP is 7109.7M tonnes per year and hence EM35 multiplier of the player will be 0.5, the additional point for the Energy Power of the player will be 0.5 x 6 = 3 points and the total point will be Technology Power Card Multiplier x 8point + 6point + 3points
 
 
 ## 3- Military Force Cards
 
-Each country will have a point and each point also shows the power index of that country. There will be three types of Military Force Cards and each card will have a multiplier which will create the Military Force power of the player. On the other hand Energy Power Card of each player will effect the total Military Force power of the player. Each player who has energy cards, will have a Energy Power Card and this will be transferred to the wallet of the player after collection of the Energy Cards. According to the points from Energy Cards, Energy Power Card of the player will have a multiplier on it and this will add additional point to the Military Force Power Card of the player. 
+Each country will have a point and each point also shows the power index of that country. There will be three types of Military Force Cards and each card will have a multiplier which will create the Military Force power of the player. On the other hand, Energy Power Card of each player will affect the total Military Force power of the player. Each player who has energy cards will have an Energy Power Card and this will be transferred to the wallet of the player after collection of the Energy Cards. According to the points from Energy Cards, the Energy Power Card of the player will have a multiplier on it and this will add additional points to the Military Force Power Card of the player. 
 
-Maximum Total Energy Point of a Player will be calculated from EM35 lists and effect on Military Force Power Card point will be calculated from the base total points of the Energy Cards. From the energy cards, it is known that there will be 6 different energy card (3 from Renewable Energy Cards (wind, solar and biodiesel) and 3 from Non-renewable Energy Cards (Petroleum, Natural Gas, Coal)), for each energy card, base points are given below
+Maximum Total Energy Point of a Player will be calculated from EM35 lists and effect on Military Force Power Card point will be calculated from the base total points of the Energy Cards. From the energy cards, it is known that there will be 6 different energy cards (3 from Renewable Energy Cards (wind, solar, and biodiesel) and 3 from Non-renewable Energy Cards (Petroleum, Natural Gas, Coal)), for each energy card, base points are given below
 
 	Energy Card					        Base Point
 	Renewable Wind Energy Card		 	    	5
@@ -445,9 +424,9 @@ Maximum Total Energy Point of a Player will be calculated from EM35 lists and ef
 
 ###	Total Base Point of Energy Cards	: 	67
 
-if a player has a total of 100 Points from his/her Energy Cards, his/her Energy Power Card multiplier will be 100/67 = 1.49
+if a player has a total of 100 points from his/her Energy Cards, his/her Energy Power Card multiplier will be 100/67 = 1.49
 
-A Complete Calculation example for Military Force Power Card of the player will be given after the presentation of Military Force Cards. As it is mention above, there will be three types of Military Force Cards, these are
+A Complete Calculation example for the Military Force Power Card of the player will be given after the presentation of Military Force Cards. As it is mentioned above, there will be three types of Military Force Cards, these are
 
 #####	1 -  Air Forces Card
 #####	2 –  Land Forces Card
@@ -457,17 +436,18 @@ A Complete Calculation example for Military Force Power Card of the player will 
 
 ### 3.1. Air Forces Card
 
-This will give air force power to the player. Only 3 Air Force Card (1 Card with 3 copies) will be published and it will have a multiplier of 2 on total power indexes of the country cards that player holds. This multiplier will be added on to the other Military Force Card multipliers.  If a player has 20 countries and total power index of those countries is 15, total point from this card will increase to 30 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be  44.7 points.
+This will give air force power to the player. Only 3 Air Force Card (1 Card with 3 copies) will be published and it will have a multiplier of 2 on total power indexes of the country cards that the player holds. This multiplier will be added to the other Military Force Card multipliers.  If a player has 20 countries and the total power index of those countries is 15, the total point from this card will increase to 30 and if the player has an Energy Power Card multiplier of 1.49, the total point of the player from all these cards will be  44.7 points.
 
-This point contains Country Points, Effect of Technology Cards, Effect of Energy Power Cards plus effect of Air Forces Card. Complete Calculation will be given at the end of all Military Force Card explanations and it will contain detailed calculations
+This point contains Country Points, Effect of Technology Cards, Effect of Energy Power Cards plus the effect of Air Forces Card. Complete Calculation will be given at the end of all Military Force Card explanations and it will contain detailed calculations
 
 ---
 ### 3.2. Land Forces Card
-This will give land force power to the player. Only 4 Land Force Card will be published (1 Card with 4 copies) and it will have a multiplier of 1.6 on total power indexes of the country cards that player holds. This multiplier will be added on to the other Military Force Card multipliers. If a player has Air Force Card, total Military Force multiplier will be 3.6 (2 from Air Force Card and 1.6 from Land Forces Card). In this case, if a player has 20 countries and total power index of those countries is 15, total point from Military Force Card multipliers will be 3.6 x 15 =  54 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be 80.46.
+This will give land force power to the player. Only 4 Land Force Card will be published (1 Card with 4 copies) and it will have a multiplier of 1.6 on total power indexes of the country cards that the player holds. This multiplier will be added to the other Military Force Card multipliers. If a player has Air Force Card, the total Military Force multiplier will be 3.6 (2 from Air Force Card and 1.6 from Land Forces Card). In this case, if a player has 20 countries and the total power index of those countries is 15, the total point from Military Force Card multipliers will be 3.6 x 15 =  54 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be 80.46.
 
 ---
 ### 3.3. Naval Forces Card
-This will give naval force power to the player. Only 3 Naval Force Card will be published (1 Card with 3 Copies) and it will have a multiplier of 1.8 on total power indexes of the country cards that player holds. This multiplier will be added on to the other Military Force multipliers. If a player has all three Military Force Cards (Air Forces Card, Land Forces Card and Naval Forces Card), she or he will have a total military force multiplier of 5.4 (2 from Air Force Card, 1.6 from Land Forces Card and 1.8 from Naval Forces Card). In this case, if a player has 20 countries and total power index of those countries is 15, total point from Military Force Card multipliers will be 5.4 x 15 =  81 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be 120.69
+This will give naval force power to the player. Only 3 Naval Force Card will be published (1 Card with 3 Copies) and it will have a multiplier of 1.8 on total power indexes of the country cards that the player holds. This multiplier will be added to the other Military Force multipliers. If a player has all three Military Force Cards (Air Forces Card, Land Forces Card, and Naval Forces Card), she or he will have a total military force multiplier of 5.4 (2 from Air Force Card, 1.6 from Land Forces Card, and 1.8 from Naval Forces Card). In this case, if a player has 20 countries and the total power index of those countries is 15, the total point from Military Force Card multipliers will be 5.4 x 15 =  81 and if the player has an Energy Power Card multiplier of 1.49, total point of player from all these cards will be 120.69
+
 
 
 ### Detailed Point Calculation Example :
@@ -486,19 +466,19 @@ We will assume that one player has the following country cards (Power Index Poin
 	9- Vietnam		1.22
 	10-Malaysia		1.14
 
-Player has 10 countries and total power index of cards is 14.87
+The Player has 10 countries and the total power index of cards is 14.87
 
-Apart from Countries, player achieved to get 2 of the technology cards, Artificial Intelligence and Machine Learning Technology Card and 5G Data Technology Card. In this case, Technology Power Card multiplier of the player will be 2/4 that is 0.5
+Apart from Countries, players achieved to get 2 of the technology cards, Artificial Intelligence and Machine Learning Technology Card and 5G Data Technology Card. In this case, the Technology Power Card multiplier of the player will be 2/4 that is 0.5
 
 From Energy Cards, we assume that the player achieved to get Natural Gas Card and Coal Gas Card, from EM35 List of each card, the Energy Power of the player will be calculated as follows :
 
-Natural Gas Card total 531 cubic km/year, WTNGP is 3948.24 cubic km/year and hence EM35 multiplier of the player from Natural Gas Card will be 0.1344 and hence additional point for the Energy Power of the player will be 0.1344 x 15 = 2.016 points and total point will be 0.5 x 14 + 15 + 2.016 = 24.016 points
+Natural Gas Card total 531 cubic km/year, WTNGP is 3948.24 cubic km/year and hence EM35 multiplier of the player from Natural Gas Card will be 0.1344 and hence additional point for the Energy Power of the player will be 0.1344 x 15 = 2.016 points and the total point will be 0.5 x 14 + 15 + 2.016 = 24.016 points
 
-Coal Gas Card total 4410.3M tonnes per year, WTCP is 7109.7M tonnes per year and hence EM35 multiplier of the player will be 0.62 and additional point for the Energy Power of the player will be 0.62 x 6 = 3.72 points and total point will be 0.5 x 8 + 6 + 3.72 = 13.72 points
+Coal Gas Card total 4410.3M tonnes per year, WTCP is 7109.7M tonnes per year and hence EM35 multiplier of the player will be 0.62 and an additional point for the Energy Power of the player will be 0.62 x 6 = 3.72 points and the total point will be 0.5 x 8 + 6 + 3.72 = 13.72 points
 
-In this case, total Energy Power Point of the player will be 37.736 and we know that Total Base Point of the Energy Cards is 67. At this point, Energy Power Card multiplier of the player will be 0.563
+In this case, the total Energy Power Point of the player will be 37.736 and we know that the Total Base Point of the Energy Cards is 67. At this point, the Energy Power Card multiplier of the player will be 0.563
 
-Same player achieve to collect Land Forces and Naval Forces cards from Military Force Cards. At this point, we will be able to calculate total points of the player without considering points from “Major Straits Cards”, “EU Card” and “NATO Card”. These cards will add additional points to the player under some conditions which we will describe in following sections.
+The same player achieves to collect Land Forces and Naval Forces cards from Military Force Cards. At this point, we will be able to calculate the total points of the player without considering points from “Major Straits Cards”, “EU Card” and “NATO Card”. These cards will add additional points to the player under some conditions which we will describe in the following sections.
 
 #### Total Point Of Player Up to This Point : 
 	
@@ -513,13 +493,13 @@ Total Points of the Player = 3.4 x 0.563 x 14.87 = 28.46 Points (This player doe
 
 ## 4- Major Straits Cards
 
-A Strait is a narrow channel of the sea joining two larger bodies of water. It most commonly refers to a channel of water that lies between two land masses. Strait is used for international navigation through the territorial sea between one part of the high seas or an exclusive economic zone and another part of high seas or an exclusive economic zone are subject to the legal regime of transit passage. Straits are commercially and strategically important for **The Ruler of the World**. Importance of Straits came from the following 
+A Strait is a narrow channel of the sea joining two larger bodies of water. It most commonly refers to a channel of water that lies between two landmasses. Strait is used for international navigation through the territorial sea between one part of the high seas or an exclusive economic zone and another part of high seas or an exclusive economic zone are subject to the legal regime of transit passage. Straits are commercially and strategically important for **The Ruler of the World**. The importance of Straits came from the following 
 
 	1- Seaborne trade for commercial shipping
-	2 – Vital oil producing region
-	3 – Play vital role in geo-politics
+	2 – Vital oil-producing region
+	3 – Play a vital role in geo-politics
 
-There will be 18 Major Straits Cards and each card will multiply the point of the location country points by a multiplier of that Strait. That is, if a player holds for example Bosporus Strait, it will effect the point of location country, that is point of Turkey. Base point of Turkey Card is 1.51 and multiplier of Bosporus Strait Card is 1.5, in this case, point from Turkey with Bosporus Strait Card will be 2.265. Each Major Strait and their multiplier is given in the following list
+There will be 18 Major Straits Cards and each card will multiply the point of the location country points by a multiplier of that Strait. That is, if a player holds for example Bosporus Strait, it will affect the point of location country, that is point of Turkey. Basepoint of Turkey Card is 1.51 and multiplier of Bosporus Strait Card is 1.5, in this case, the point from Turkey with Bosporus Strait Card will be 2.265. Each Major Strait and its multiplier is given in the following list
 
 Note : Multiplier of Strait will effect point of each location country
 
@@ -544,7 +524,7 @@ Note : Multiplier of Strait will effect point of each location country
 	17 – Formosa Strait		China – Taiwan					1.84
 	18 – Suez Canal			Egypt						2.95
 
-Note : If two straits contains same country, point of that country will be multiplied by both straits. The only straits that has same location are Yucatan Strait and Florida Strait. In this case, if a player holds both Strait Cards and also Cuba Country Card, the point of Cuba will be calculated as
+Note: If two straits contain the same country, the point of that country will be multiplied by both straits. The only straits that have the same location are Yucatan Strait and Florida Strait. In this case, if a player holds both Strait Cards and also Cuba Country Card, the point of Cuba will be calculated as
 
 	Total Point of Cuba Country Card = Base Point of Cuba x Multiplier of Yucatan Strait x Multiplier of Florida Strait 
 	
@@ -620,27 +600,27 @@ the winner that is **The Ruler of the World**
 ## 8- Rules of The Game
 
     A- Main player can be a person or a group of people under a team name
-    B- First five player or team who collects at least 12 Country Cards will be main players of the game,
+    B- First five-player or team who collects at least 12 Country Cards will be the main players of the game,
     others will be the pirates or pirate teams of the game.
     C- Pirate can be a person or a group of people under a pirate team name
-    D- Each team can not be more than 20 person but a Main player & a pirate team can
-    form an alliance when a priate team holds at least 5 country card.
-    E- Team names and members of team should be send to ROW email address and hence
-    they will get a Main Player Card or Pirate (Game-breaker) card under that name
+    D- Each team can not be more than 20 people but the Main player & a pirate team can
+    form an alliance when a pirate team holds at least 5 country cards.
+    E- Team names and members of the team should be sent to the ROW email address and hence
+    they will get the Main Player Card or Pirate (Game-breaker) card under that name
     F- Each Main Player should select a Country as their Main Country of the game and
     should hold that country card. A country is not limited to one Main Player,
     a country can be selected more than one Main Player and at the end of the game
     **The Ruler of the World** card will contain team name (if any) or main player
     name or nickname and the name & flag of the selected country or if any team has their
     own team flag The Ruler of the World card will contain selected country and team flags.
-    G- A main player or main player team members cannot purchase a country card or
-    power card more than one. Or a main player or main player team cannot form an allience with
-    a pirate team which holds same cards in their collection. In such an allience,
+    G- The main player or main player team members cannot purchase a country card or
+    power card more than one. Or the main player or main player team cannot form an alliance with
+    a pirate team that holds the same cards in their collection. In such an alliance,
     they have to sell one of all similar cards at 10% below the purchase price to other
     main players.
-    H- A pirate team or a pirate or a main player or a main player team cannot sell a card to a 
-    main player or main player team below the purchase price and cannot sell a card which buyer main 
-    player holds in his/her/their collection. 
+    H- A pirate team or a pirate or a main player or the main player team cannot sell a card to a 
+    a main player or main player team below the purchase price and cannot sell a card which buyer main 
+    player holds in his/her/their collection.
     
     
 ## 9 - Contact Details :
