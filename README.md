@@ -2,6 +2,7 @@
 ## A Card Collection Game
 
 [At OpenSea](https://opensea.io/collection/the-ruler-of-the-world)
+[At LinkedIn](https://www.linkedin.com/company/the-ruler-of-the-world)
 
 ### To prevent complete one time purchase of all collection, total price of collection will be kept 4000 ETH
 
