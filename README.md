@@ -1,8 +1,10 @@
 # The Ruler of the World
 ## A Card Collection Game
 
-[At OpenSea](https://opensea.io/collection/the-ruler-of-the-world)
+[At Rarible](https://rarible.com/aytacguley/sale)
 [At LinkedIn](https://www.linkedin.com/company/the-ruler-of-the-world)
+
+ROW NFT Collection will be sold at Rarible. After having thousands of errors and  problems with OpenSea, we decide that OpenSea is waste of time.
 
 ### To prevent complete one time purchase of all collection, total price of collection will be kept 4000 ETH
 
