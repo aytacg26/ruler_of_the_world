@@ -644,17 +644,17 @@ cards has been created by [Muza Production](https://muzaproduction.net/en/) and 
 
 ## 11 - Main Target of the Project
 
-The Ruler of the World - ROW NFT is planning to create ROW Rock Bar Franchise and ROW branded Beers. For both targets, feasibility report and market researches are in progress. At first step, we are planning to found first pilot bar at the selected location after feasibility report and expected sales. In case everything goes well, branding studies will be increased and if it is achieved to create the franchise structure and get requests for the franchise, after founding third francise ROW Rock Bar, we will sign contract with a subcontractor manufacturer for ROW branded beers.
+The Ruler of the World - ROW NFT is planning to create the ROW Rock Bar Franchise and ROW branded Beers. For both targets, feasibility reports and market researches are in progress. In the first step, we are planning to start the first pilot bar at the selected location after the feasibility report and expected sales. In case everything goes well, branding studies will be increased and if it is achieved to create the franchise structure and get requests for the franchise, after founding the third franchise ROW Rock Bar, we will sign a contract with a subcontractor manufacturer for ROW branded beers.
 
-At first step, talking about both subjects seems easy but both subject needs careful study and hardest part of the project will be the branding process and legal procedures. On the other hand, just creating brand for beer won't be a good strategy, apart from brand quality and taste of beer will be the most important point for this project therefore selection process of the subcontractor will also be one of the tough part of the project.
+At first, talking about both subjects seems easy but both subjects need careful study and the hardest part of the project will be the branding process and legal procedures. On the other hand, just creating a brand for beer won't be a good strategy, apart from brand quality and taste of beer will be the most important point for this project, therefore, the selection process of the subcontractor will also be one of the tough parts of the project.
 
-For all the above, we are still working on feasibility report and market analysis for both targets as both have very competitive market and well known competitors with loyal customers in the market. 
+For all the above, we are still working on a feasibility report and market analysis for both targets as both have very competitive markets and well-known competitors with loyal customers in the market. 
 
 
 ### 11.1 - Utility for the Buyers of ROW NFT
 
-Until creating the franchise structure and beer brand, promising a Utility will be a misleading approach but if the target of the project starts to get successful results, Main players will be at the board of directors of the founded company and other players (priates of the game) will have the shares of the company according to the purchased amount of ROW NFTs on the 49% of the shares of the company (51% will be under control of board of directors), apart from shares, they will have right to enter any francise bar free of entry charge, for this reason, every buyer will receive a ROW NFT member card. 
-(As soon as completion of reports, all will be published at ROW NFT's website which is also still under construction because of fully detailed structure but it is almost completed.) 
+Until creating the franchise structure and beer brand, promising a Utility will be a misleading approach but if the target of the project starts to get successful results, the main players will be the board of directors of the founded company and other players (pirates of the game) will have the shares of the company according to the purchased amount of ROW NFTs on the 49% of the shares of the company (51% will be under the control of the board of directors), apart from shares, they will have right to enter any franchise bar free of entry charge, for this reason, every buyer will receive a ROW NFT member card. 
+(As soon as completion of reports, all will be published on ROW NFT's website which is also still under construction because of its fully detailed structure but it is almost completed.) 
 
 
 ## 12 – What will winner get?
