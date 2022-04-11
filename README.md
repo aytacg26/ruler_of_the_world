@@ -661,3 +661,27 @@ Until creating the franchise structure and beer brand, promising a Utility will 
 
 At the end of the game, winner will get all the cards he/she/they collect, EU Card, NATO Card, Power Cards and The Ruler of the World Card. But those are not be the only gains of the winner. Winner will also get a very valuable thing which will be valuable than what he/she/they invested. This valuable thing is a SECRET, a HIDDEN REWARD which we will not declare till the end of the game to prevent manipulations and possible deceptions. The only hint about the HIDDEN REWARD is that, it will be a reward that is valuable than the investment amount. Apart from all cards, The Ruler of the World, will get a HIDDEN Reward from the game. 
 
+
+# Images from the ongoing ROW NFT Website :
+
+### ROW NFT Website Entry Page :
+https://user-images.githubusercontent.com/51089771/162735384-7b5f18a8-708c-4af9-a654-ba9feb226adc.png
+
+### About ROW NFT :
+https://user-images.githubusercontent.com/51089771/162735360-f8e8ef96-97ed-40b8-9a35-d1a122832379.png
+
+### ROW NFT Trading Cards :
+https://user-images.githubusercontent.com/51089771/162735375-9c345544-137a-4aad-9941-8df20ca533c3.png
+
+### ROW NFT Card Validity Check Page :
+https://user-images.githubusercontent.com/51089771/162735388-5dd407d9-0a30-4ced-a05a-58581c45e7f8.png
+
+### ROW NFT Card Validity Check - Valid Card Result :
+https://user-images.githubusercontent.com/51089771/162735386-23d4ff00-9a19-4676-a53f-85030e90563b.png
+
+### ROW NFT Card Validity Check - Invalid Card Result :
+https://user-images.githubusercontent.com/51089771/162735385-c5340ccd-ff81-4bb6-92a4-696c6a8d8524.png
+
+### ROW NFT Contact Us Page :
+https://user-images.githubusercontent.com/51089771/162735381-3a614493-aff7-426b-97cf-e0793891abb5.png
+
