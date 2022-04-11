@@ -642,7 +642,22 @@ cards has been created by [Muza Production](https://muzaproduction.net/en/) and 
 
 [The Ruler of the World OpenSea Link](https://opensea.io/collection/the-ruler-of-the-world)
 
-## 11 – What will winner get?
+## 11 - Main Target of the Project
+
+The Ruler of the World - ROW NFT is planning to create ROW Rock Bar Franchise and ROW branded Beers. For both targets, feasibility report and market researches are in progress. At first step, we are planning to found first pilot bar at the selected location after feasibility report and expected sales. In case everything goes well, branding studies will be increased and if it is achieved to create the franchise structure and get requests for the franchise, after founding third francise ROW Rock Bar, we will sign contract with a subcontractor manufacturer for ROW branded beers.
+
+At first step, talking about both subjects seems easy but both subject needs careful study and hardest part of the project will be the branding process and legal procedures. On the other hand, just creating brand for beer won't be a good strategy, apart from brand quality and taste of beer will be the most important point for this project therefore selection process of the subcontractor will also be one of the tough part of the project.
+
+For all the above, we are still working on feasibility report and market analysis for both targets as both have very competitive market and well known competitors with loyal customers in the market. 
+
+
+### 11.1 - Utility for the Buyers of ROW NFT
+
+Until creating the franchise structure and beer brand, promising a Utility will be a misleading approach but if the target of the project starts to get successful results, Main players will be at the board of directors of the founded company and other buyers will have the shares of the company according to the purchased amount of ROW NFTs, apart from shares, they will have right to enter any francise bar free of entry charge for this reason, every buyer will receive a ROW NFT member card. 
+(As soon as completion of reports, all will be published at ROW NFT's website which is also still under construction because of fully detailed structure but it is almost completed.) 
+
+
+## 12 – What will winner get?
 
 At the end of the game, winner will get all the cards he/she/they collect, EU Card, NATO Card, Power Cards and The Ruler of the World Card. But those are not be the only gains of the winner. Winner will also get a very valuable thing which will be valuable than what he/she/they invested. This valuable thing is a SECRET, a HIDDEN REWARD which we will not declare till the end of the game to prevent manipulations and possible deceptions. The only hint about the HIDDEN REWARD is that, it will be a reward that is valuable than the investment amount. Apart from all cards, The Ruler of the World, will get a HIDDEN Reward from the game. 
 
