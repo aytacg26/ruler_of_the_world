@@ -653,7 +653,7 @@ For all the above, we are still working on feasibility report and market analysi
 
 ### 11.1 - Utility for the Buyers of ROW NFT
 
-Until creating the franchise structure and beer brand, promising a Utility will be a misleading approach but if the target of the project starts to get successful results, Main players will be at the board of directors of the founded company and other buyers will have the shares of the company according to the purchased amount of ROW NFTs on the 49% of the shares of the company (51% will be under control of board of directors), apart from shares, they will have right to enter any francise bar free of entry charge for this reason, every buyer will receive a ROW NFT member card. 
+Until creating the franchise structure and beer brand, promising a Utility will be a misleading approach but if the target of the project starts to get successful results, Main players will be at the board of directors of the founded company and other players (priates of the game) will have the shares of the company according to the purchased amount of ROW NFTs on the 49% of the shares of the company (51% will be under control of board of directors), apart from shares, they will have right to enter any francise bar free of entry charge, for this reason, every buyer will receive a ROW NFT member card. 
 (As soon as completion of reports, all will be published at ROW NFT's website which is also still under construction because of fully detailed structure but it is almost completed.) 
 
 
